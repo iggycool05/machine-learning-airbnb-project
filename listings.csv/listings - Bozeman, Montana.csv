@@ -1,0 +1,601 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+1913774,Downtown Bozeman Vacation Rental,9892898,Brian,,Bozeman,45.68422,-111.03839,Entire home/apt,90,3,610,2025-11-02,4.18,1,246,86,STR22-00028
+1950545,Northside Hideaway,8224408,Paul,,Bozeman,45.68563,-111.03118,Entire home/apt,141,2,44,2025-09-23,0.32,17,336,6,str20-00211
+2390321,2 Blocks 2 Main,7849959,Irene,,Bozeman,45.67434,-111.0333,Entire home/apt,200,3,52,2025-09-14,0.45,2,364,3,STR22-00083
+2536175,Modern Home Near Campus & Downtown,8287259,Kristine Marie,,Bozeman,45.66473,-111.03977,Entire home/apt,150,3,347,2025-10-27,2.51,1,319,37,STR20-00308
+2839082,"Charming downtown home, Bogart park",1577112,Zack,,Bozeman,45.6757,-111.03284,Entire home/apt,489,3,70,2025-09-21,0.58,1,356,1,STR21-00060
+2968623,Sunny Bozeman MSU Cottage,15146634,Frances,,Bozeman,45.67241,-111.04913,Entire home/apt,120,2,222,2025-10-20,1.77,1,170,23,STR23-00143
+3372306,Lovely 2BR Bozeman Cottage near Main St,190138,Anna,,Bozeman,45.68444,-111.04357,Entire home/apt,117,30,73,2025-07-01,0.54,1,269,2,
+4008507,"The Loft: near MSU, private entry, kitchen & baths",20738079,Lori,,Bozeman,45.66932,-111.04256,Entire home/apt,177,2,296,2025-11-09,2.33,2,353,32,STR24-00101
+4134363,Yellow Dogs Cottage: Unique Large Downtown Cottage,21447984,Sharon,,Bozeman,45.67114,-111.04041,Entire home/apt,235,3,118,2025-10-19,0.88,3,352,14,Exempt
+4778710,Executive 6 Month Rental with Hot Tub,14101343,Steven And Eleanor,,Bozeman,45.68605,-111.07734,Entire home/apt,100,30,0,,,1,358,0,
+5230388,The Montana Mountain Villa,20738079,Lori,,Bozeman,45.66868,-111.04182,Entire home/apt,1035,4,4,2025-08-06,0.05,2,324,3,STR24-00030
+6662056,Modern Loft-House: Big Sky Country,34871220,Ehson,,Bozeman,45.65955,-111.02278,Entire home/apt,165,30,162,2025-06-01,1.30,1,316,1,
+6783856,Remote Worker's Dream,35514344,Janette,,Bozeman,45.679,-111.08748,Entire home/apt,,30,15,2021-03-07,0.12,1,363,0,
+6800497,Your Private Suite 1 block from heart of Downtown,16264310,Kent,,Bozeman,45.67712,-111.03485,Entire home/apt,146,2,396,2025-10-12,3.30,1,357,35,Str20-00361
+6970499,Downtown Red Chair Retreat,36548325,Doug,,Bozeman,45.68185,-111.04333,Entire home/apt,68,3,416,2025-10-20,3.45,2,227,30,STR23-00001
+7480329,"Near Downtown, For Extended Stays - 30 days min.",3437116,Jill,,Bozeman,45.6724,-111.02983,Entire home/apt,,30,11,2024-02-20,0.10,1,0,0,
+7809335,Modern Farmhouse in Historic Downtown Bozeman,18706726,Otto,,Bozeman,45.67413,-111.03681,Entire home/apt,899,5,64,2024-07-14,0.52,1,175,0,STR20-00360
+8016791,"Happy, Healthy, Home in the Heart of Downtown BZN!",19523133,Pele,,Bozeman,45.68377,-111.03245,Entire home/apt,364,2,224,2025-11-03,1.91,2,223,22,STR20-00365
+8131484,Story Street Rental Apartment,42939495,Mary,,Bozeman,45.67359,-111.05386,Entire home/apt,157,3,241,2025-10-07,2.02,1,319,21,STR20-00146
+8248642,Welcome to the Bozeman Treehouse on Main Street,23268299,Jenny,,Bozeman,45.679019927978516,-111.02340698242188,Entire home/apt,343,3,56,2025-10-06,0.54,1,195,2,STR23-00028
+8471627,Downtown Digs (3 blocks from the center of DT),44596719,Jade,,Bozeman,45.68174,-111.03491,Entire home/apt,149,1,849,2025-10-19,8.00,2,321,73,STR23-00120
+8522409,"Stroll to Meyers Lake, Airy Two Bedroom Guesthouse",44874042,Amy,,Bozeman,45.67865,-111.10087,Entire home/apt,144,3,320,2025-11-08,2.76,1,263,38,STR22-00029
+8616625,"Historic University District Home, #A25-00064",32568100,Andrew,,Bozeman,45.67505,-111.04803,Entire home/apt,157,2,249,2025-10-12,2.04,1,150,21,STR22-00063
+9131418,"Bozeman On Trails, near Downtown",7722453,Rachel,,Bozeman,45.66065,-111.01486,Entire home/apt,275,27,4,2023-07-21,0.04,2,269,0,
+9588650,Downtown Urban Chic,49630888,Amy,,Bozeman,45.682587,-111.041031,Entire home/apt,142,2,564,2025-10-31,4.66,1,309,36,STR23-00033
+9615182,Treasure State Hostel 6 Bed Dorm,49746531,Nina,,Bozeman,45.679,-111.03686,Hotel room,,1,377,2025-08-09,3.11,7,171,20,Exempt
+9615473,Treasure State Hostel Single Private Room,49746531,Nina,,Bozeman,45.68,-111.03583,Hotel room,46,1,259,2025-10-23,2.17,7,166,22,Exempt
+9675892,Rustic-Contemporary Downtown,14383276,Dianne,,Bozeman,45.68379,-111.02875,Entire home/apt,120,30,2,2024-10-15,0.11,1,356,0,
+9739788,Treasure State Hostel 4 Bed Dorm,49746531,Nina,,Bozeman,45.68072,-111.03733,Hotel room,,1,239,2025-10-25,2.11,7,171,19,Exempt
+9740033,Treasure State Hostel 3 Bed Dorm,49746531,Nina,,Bozeman,45.68057,-111.03747,Shared room,39,1,98,2024-10-25,0.84,7,168,0,Exempt
+10194083,Blue Willow Guest House,52362737,Terra,,Bozeman,45.67359,-111.03341,Entire home/apt,212,3,123,2025-07-19,1.05,1,163,3,STR23-00042
+10282173,Charming Campus Home,8979185,Laura,,Bozeman,45.67276,-111.04538,Entire home/apt,140,3,78,2025-10-20,2.30,1,93,29,STR23-00078
+10616342,Treasure State Hostel Queen Private Room,49746531,Nina,,Bozeman,45.68009,-111.03692,Hotel room,66,1,161,2025-08-05,1.40,7,165,12,Exempt
+11337733,Walk to Downtown! Historic Studio with Sun,59339691,Allison,,Bozeman,45.68124,-111.0448,Entire home/apt,,2,540,2025-10-26,4.60,1,251,49,STR23-00025
+11394263,Kelly's MT Retreat,59781492,Andrew,,Bozeman,45.69245,-111.08859,Entire home/apt,149,30,7,2023-03-10,0.06,1,365,0,
+12675495,"Bridger guesthouse, 1/2 way between MSU/Downtown!",68872256,Michael,,Bozeman,45.66816,-111.03438,Entire home/apt,153,2,492,2025-10-19,4.31,2,313,31,str23-00169
+13747912,Best Location in Downtown Bozeman,80521705,Anna,,Bozeman,45.67987,-111.02812,Entire home/apt,107,1,491,2025-10-28,4.32,1,324,63,STR00-00000
+13797463,Urban Farmhouse,81112095,Serena,,Bozeman,45.68133,-111.05212,Entire home/apt,125,3,241,2025-10-05,2.12,1,357,10,STR23-00227
+14041374,Family and friends together place.,20987607,Jacki,,Bozeman,45.65439,-111.03909,Entire home/apt,413,3,8,2024-05-12,0.07,1,61,0,STR20-00315
+14093005,Country Living in the City,74996144,Gary,,Bozeman,45.66854,-111.03084,Entire home/apt,319,2,201,2025-11-09,1.78,1,277,35,STR20-00304
+14487902,"Bozeman ski, snowboard, hike the great outdoors",77150382,Mary,,Bozeman,45.69137,-111.11546,Entire home/apt,297,2,119,2025-08-24,1.07,1,328,17,STR23-00011
+14769819,Great Room & Location with Private Bath & Balcony,84377290,Ellen-Therese,,Bozeman,45.66035,-111.03221,Private room,68,30,185,2024-04-01,1.73,1,238,0,
+15284883,Green Guest Loft in the Heart of Downtown Bozeman,97282807,Natalie,,Bozeman,45.68432,-111.03863,Entire home/apt,170,3,86,2025-10-19,0.78,1,81,10,STR23-00189
+15579746,Pet friendly historic flat w/ AC & fireplace,78849013,Stay Montana,,Bozeman,45.67976,-111.03788,Entire home/apt,95,30,10,2024-11-01,0.11,11,364,0,
+16135754,Luxury Condo In Downtown Bozeman on Main Street,91012372,Peter Nicholas,,Bozeman,45.67949,-111.02221,Entire home/apt,218,3,124,2025-11-09,1.17,1,188,33,STR23-00168
+16274835,Carriage House Cutie! (KING BED) -Steps From Lake,106429221,Vacation Homes Bozeman,,Bozeman,45.682135,-111.0975582,Entire home/apt,99,2,109,2025-08-18,1.01,5,185,10,STR20-00084
+16498232,Dog Friendly,77559702,Joe,,Bozeman,45.67664,-111.07691,Private room,64,28,205,2024-09-29,1.97,1,164,0,
+16504338,Great open plan townhouse!,68913845,Julia,,Bozeman,45.69021,-111.05558,Entire home/apt,208,1,247,2025-10-06,2.30,1,271,27,Str20-00038
+16546683,Cabin On Montana,103773075,Reno,,Bozeman,45.687469,-111.033318,Entire home/apt,238,3,146,2025-10-25,1.38,2,236,12,STR21-00001
+16600051,Bozeman - Modern/Rustic 1 bedroom w/ Loft bedroom,41587598,Marjorie,,Bozeman,45.70157,-111.00896,Entire home/apt,171,1,330,2025-10-27,3.13,1,253,31,
+16662749,"""Elegant Escape"" (KING BED) Great Location!",106429221,Vacation Homes Bozeman,,Bozeman,45.6890338,-111.1083844,Entire home/apt,196,2,54,2025-10-12,0.52,5,189,4,STR20-00061
+16881888,2 Blocks 2 Main with a View,7849959,Irene,,Bozeman,45.67817,-111.03371,Entire home/apt,80,30,8,2025-07-26,0.11,2,329,1,
+17606899,Bridger Creek Luxury home near Bridger Bowl Skiing,78849013,Stay Montana,,Bozeman,45.70696,-111.01901,Entire home/apt,274,3,35,2025-09-28,0.34,11,71,4,STR22-00080
+18309166,"Peaks View Suite-Modern APT, Central BZN w/ garage",55985011,Jylissa,,Bozeman,45.70977,-111.0797,Entire home/apt,150,30,54,2025-09-05,0.52,1,299,5,
+18428989,30-day on Golf Course w/view of Bridger Mountains,78849013,Stay Montana,,Bozeman,45.70604,-111.02771,Entire home/apt,109,30,7,2025-10-26,0.08,11,288,2,
+18509621,The Attic Downtown - Walk to Main Street!,19097147,Hilary,,Bozeman,45.6828,-111.0462,Entire home/apt,127,1,781,2025-10-25,7.55,3,249,94,Str20-00381
+18610457,Welcome to Madison Guest House!,68872256,Michael,,Bozeman,45.66819,-111.03475,Entire home/apt,125,2,404,2025-10-19,3.96,2,343,33,STR23-00200
+18756607,Cozy Aspen Grove efficiency suite. Bright and sexy,130503649,Lisa,,Bozeman,45.71844,-111.06394,Entire home/apt,100,1,359,2025-10-22,3.48,2,349,31,Exempt
+18876596,Black Bear Inn: A comfy cozy 2 bedroom 1 bath unit,130503649,Lisa,,Bozeman,45.71263,-111.05554,Entire home/apt,,1,350,2025-11-09,3.84,2,349,33,
+19738080,30 Day- Historic flat downtown w/ vintage features,78849013,Stay Montana,,Bozeman,45.6801,-111.03939,Entire home/apt,70,30,14,2024-11-08,0.16,11,298,0,
+19986314,The Cottage Downtown - Walk to Main Street!,19097147,Hilary,,Bozeman,45.68148,-111.04859,Entire home/apt,124,1,632,2025-10-26,6.32,3,62,85,Str20-00120
+20121999,Jungle Room – Boho Summer Vibes Near Trails & Tow,13861863,Kendall,,Bozeman,45.67522048950195,-111.03057861328125,Private room,75,1,136,2025-08-14,1.35,3,309,27,STR23-00146
+20468639,Your Adventure and Downtown Base-Camp,146144535,Donald,,Bozeman,45.68745,-111.05545,Private room,76,1,738,2025-10-28,7.36,1,76,94,STR56-68025
+21436733,"""The Whisk Away!"" Remodeled & Great location!",106429221,Vacation Homes Bozeman,,Bozeman,45.691377,-111.1156164,Entire home/apt,,2,51,2025-08-21,0.54,5,193,5,STR20-00187
+21563216,Cozy and Clean Apartment in Downtown Bozeman,147544279,Catrina,,Bozeman,45.68053,-111.04321,Entire home/apt,81,1,638,2025-10-30,6.61,1,221,89,STR22-00034
+21788567,Bozeman Creek Loft,22821126,Berit,,Bozeman,45.66276,-111.03298,Entire home/apt,104,1,261,2025-10-26,4.09,1,141,56,STR20-00368
+22010637,Beautiful Bozeman Bound STR20-00314,100568826,Victoria,,Bozeman,45.69652,-111.0813,Entire home/apt,177,1,583,2025-10-31,6.08,1,80,88,STR20-00314
+22031067,Blue Pine Cone-Modern Townhome Close to Bozeman an,158595657,Mountain Home,,Bozeman,45.70651,-111.01959,Entire home/apt,462,1,24,2025-07-27,0.36,41,195,5,STR20-00339
+22031078,Bozeman Spruce House-Fabulous historic Bozeman hom,158595657,Mountain Home,,Bozeman,45.67244,-111.03835,Entire home/apt,570,1,33,2025-06-30,0.52,41,127,12,STR20-00367
+22031083,Bridger Bungalow - An elegant townhome close to Bo,158595657,Mountain Home,,Bozeman,45.70629,-111.01963,Entire home/apt,360,1,28,2025-09-28,0.35,41,268,6,STR22-00092
+22031084,Bridger Creek Townhouse - Elegant Townhome Close t,158595657,Mountain Home,,Bozeman,45.707085,-111.020134,Entire home/apt,350,1,34,2025-09-16,0.41,41,320,5,STR20-00331
+22031123,Legends Townhouse-Luxury Townhouse Near Bozeman an,158595657,Mountain Home,,Bozeman,45.707302,-111.020195,Entire home/apt,442,1,31,2025-07-13,0.43,41,318,6,STR20-00331
+22031166,The Loft - Urban Bozeman Loft with Hot Tub In The,158595657,Mountain Home,,Bozeman,45.68669,-111.02745,Entire home/apt,231,1,45,2025-10-12,0.50,41,28,10,STR23-00056
+22031171,Stained Glass House - Centrally Located Home in Bo,158595657,Mountain Home,,Bozeman,45.68942,-111.05661,Entire home/apt,414,1,59,2025-10-26,0.83,41,293,9,STR22-00091
+22467914,Downtown Bozeman Bungalow - 2 blocks from Main St.,11104779,Sarah,,Bozeman,45.67704,-111.03458,Entire home/apt,190,2,317,2025-11-09,4.43,1,278,32,STR23-00136
+22733838,Quilt Cottage,8224408,Paul,,Bozeman,45.68497,-111.02946,Entire home/apt,209,2,22,2025-06-29,0.26,17,266,2,str20-00206
+22925801,*Downtown Luxury + Outdoor Patio*~ Walk Everywhere,169754903,VR Bozeman,,Bozeman,45.680634,-111.030121,Entire home/apt,365,1,284,2025-10-19,3.02,8,291,45,STR23-00004
+22925892,Peach Treehouse - private room & bath - Downtown+,47859142,Jason,,Bozeman,45.68583,-111.03532,Private room,80,1,562,2025-10-26,5.92,2,10,74,STR20-00267
+23191331,The Bungalow Downtown,19097147,Hilary,,Bozeman,45.68196,-111.04504,Entire home/apt,126,1,492,2025-10-19,5.34,3,236,78,STR20-00381
+23269653,"Coldsmoke Getaway, Steps From Lake & Trails",106429221,Vacation Homes Bozeman,,Bozeman,45.6821892292,-111.095205612,Entire home/apt,133,1,66,2025-09-21,0.71,5,195,10,STR20-00083
+23685855,Walk to Dtwn Bozeman: Townhome w/ Fast WiFi,122381278,Evolve,,Bozeman,45.66846,-111.04046,Entire home/apt,99,28,15,2025-06-29,0.20,9,129,3,
+23689274,Ollie's House,24882747,Kerry,,Bozeman,45.67713,-111.04563,Entire home/apt,379,3,45,2025-09-28,0.50,1,276,7,STR22-00043
+23945254,Dahlia House,8224408,Paul,,Bozeman,45.68283,-111.0295,Entire home/apt,168,2,39,2025-06-08,0.43,17,307,1,STR23-00030
+23947268,Dwell House Downtown,8224408,Paul,,Bozeman,45.68181,-111.02854,Entire home/apt,272,2,19,2025-08-24,0.21,17,174,2,str22-00017
+24075266,"Spacious, Light Private Suite in the Heart of Town",176207616,Elin,,Bozeman,45.67712,-111.05146,Entire home/apt,,1,243,2025-11-07,2.76,1,98,38,STR20-00378
+25113972,Retreat Under Bozeman Big Sky Near Yellowstone,171508189,Coleen,,Bozeman,45.67414,-111.08677,Entire home/apt,195,3,216,2025-10-13,2.39,1,122,12,STR20-00110
+25321668,"'Bozeman Getaway' w/ Mountain Views, Near Downtown",122381278,Evolve,,Bozeman,45.67941,-111.09516,Entire home/apt,377,4,59,2025-09-10,0.68,9,308,8,STR20-00356
+25420087,Contemporary Downtown Townhome,8224408,Paul,,Bozeman,45.68198,-111.03668,Entire home/apt,268,2,53,2025-10-27,0.61,17,34,15,str22-00090
+25545074,Peach Treehouse - whole house - Downtown+,47859142,Jason,,Bozeman,45.68657,-111.03726,Entire home/apt,,4,11,2024-12-26,0.13,2,0,1,STR20-00267
+25549889,Red Chair Townhouse,36548325,Doug,,Bozeman,45.68187,-111.04339,Entire home/apt,122,3,195,2025-10-24,2.16,2,221,28,STR23-00001
+25580821,Bozone Bliss (KING Bed) Steps from Lake!,106429221,Vacation Homes Bozeman,,Bozeman,45.6827985,-111.0953193,Entire home/apt,200,2,98,2025-10-18,1.10,5,188,14,STR20-00087
+27113338,Chickadee's Nest,40166238,Sunny,,Bozeman,45.67693,-111.05311,Entire home/apt,143,1,55,2025-08-18,0.63,2,360,2,STR23-00194
+27284221,"Big Sky Bozeman 2 BR Suite, Perfect for Kids/Pets",205016195,Erik,,Bozeman,45.711734771728516,-111.0338134765625,Entire home/apt,264,2,120,2025-10-12,1.44,1,315,7,STR20-00319
+27730357,"Heart of History, Fred M Brown residence at MSU!!",209352450,Sarah Abigail,,Bozeman,45.67086,-111.04026,Entire home/apt,188,30,4,2024-09-17,0.11,1,264,0,
+27854265,Master Bedroom Suite onTrail System accommodates 1,7722453,Rachel,,Bozeman,45.66062,-111.01597,Private room,119,31,23,2023-09-17,0.26,2,269,0,
+29658137,Sunny and Cozy Contemporary Bungalow Walk to Dwntn,259151,Stefan,,Bozeman,45.67078,-111.04335,Entire home/apt,,30,0,,,1,50,0,
+29899479,Midtown Midcentury Bungalow,224820389,Shawna,,Bozeman,45.68219,-111.04814,Entire home/apt,105,30,5,2024-07-28,0.12,1,268,0,
+30326352,Cozy space with private Hot tub & Queen bed,96363366,Jason,,Bozeman,45.68367,-111.04468,Private room,162,2,129,2025-10-18,2.80,1,325,25,STR23-00244
+30397317,Andon Rise - 3rd floor loft,58894863,Amy,,Bozeman,45.67889232276378,-111.01844747100384,Entire home/apt,117,1,634,2025-10-20,7.53,2,258,78,STR22-00031
+31341829,"Cozy, Clean & Great location w/Mountain Views",14612117,Kietra,,Bozeman,45.68988,-111.10514,Entire home/apt,,30,49,2024-05-12,0.70,1,0,0,
+31905516,Bridger Sunrise Town Home 1 Bedroom,33934983,Melissa,,Bozeman,45.68604,-111.05512,Entire home/apt,162,4,4,2022-07-12,0.05,1,332,0,STR20-00044
+33094078,The Westside Nest - Cozy & Convenient!,133422103,Tess,,Bozeman,45.67912,-111.0784,Entire home/apt,148,3,213,2025-10-27,2.65,1,277,28,STR25-00014
+33241999,"Downtown home w/gorgeous mountain views, near MSU",78849013,Stay Montana,,Bozeman,45.6779,-111.02176,Entire home/apt,208,2,38,2025-09-29,0.49,11,344,4,STR20-00006
+34889598,Fridley Studio: Downtown on Bozeman's North Side,10828597,Amy,,Bozeman,45.68332,-111.02781,Entire home/apt,70,30,15,2025-10-25,0.34,1,255,2,
+35577163,Cozy West Olive Cottage,8224408,Paul,,Bozeman,45.67709,-111.04909,Entire home/apt,161,2,37,2025-10-23,0.48,17,339,7,str20-00016
+36181219,Bozeman North 406,272118985,Robin,,Bozeman,45.6856,-111.02671,Entire home/apt,345,3,30,2025-10-12,0.39,1,232,2,STR23-00023
+36518869,Spacious One Bedroom Apartment with Laundry,274550698,Amanda,,Bozeman,45.6789,-111.09985,Entire home/apt,135,2,71,2025-08-29,0.96,1,334,8,STR23-00087
+36798038,"Haven in Bozeman- Close to MSU, Main St, Trails",1978098,Kimberly,,Bozeman,45.66114,-111.03716,Entire home/apt,106,1,242,2025-10-20,3.16,1,354,34,STR23-00226
+36931430,Bridger View Bunkhouse,41269419,Chase,,Bozeman,45.69669,-111.09403,Entire home/apt,85,2,477,2025-11-03,6.24,1,182,65,STR20-00011
+37483040,DT Charm: Bridger Ski Shuttle Just Steps Away!,21088231,Justine,,Bozeman,45.68849,-111.03182,Entire home/apt,87,1,449,2025-10-10,5.91,1,294,64,STR23-00031
+37658979,Lindley Place Cottage,8224408,Paul,,Bozeman,45.67626,-111.03297,Entire home/apt,215,2,39,2025-10-15,0.52,17,324,10,str20-00290
+37863453,One bedroom and separate  bath just for you!,186311619,Jan,,Bozeman,45.67992,-111.07972,Private room,66,1,278,2025-11-09,3.67,1,67,55,STR23-22530
+38379009,Tenderfoot Cottage,104010331,Dream MT,,Bozeman,45.68676,-111.03931,Entire home/apt,220,30,41,2023-09-28,0.55,3,246,0,
+39002591,"The Green Door - Modern Studio, Great Location",45830254,Phillip,,Bozeman,45.67519,-111.05651,Entire home/apt,90,2,339,2025-10-28,4.65,1,202,68,STR20-00140
+39028561,Creekside Cottage on Bozeman Creek,299079914,Bart,,Bozeman,45.66400909423828,-111.03108215332031,Entire home/apt,125,30,151,2024-01-29,2.04,1,314,0,
+39551580,Peach House,8224408,Paul,,Bozeman,45.68501,-111.03931,Entire home/apt,149,2,27,2025-09-30,0.44,17,357,4,str20-00188
+39642791,BozemanAir - Cottage Near Montana State University,304628102,Lisa,,Bozeman,45.64474,-111.06422,Entire home/apt,264,2,80,2025-10-21,1.15,1,324,6,STR20-00014
+39951421,Beall Park Guest House,8224408,Paul,,Bozeman,45.68302,-111.03683,Entire home/apt,226,2,22,2025-10-12,0.32,17,319,5,str20-00253
+39951635,Fridley Cottage,8224408,Paul,,Bozeman,45.68331,-111.02892,Entire home/apt,199,2,21,2025-11-04,0.31,17,249,7,str29-00222
+40202339,SoBo Cottage  |  5-star Downtown Favorite,310484531,Lisa,,Bozeman,45.67773,-111.0346,Entire home/apt,199,3,72,2025-10-25,1.04,2,207,7,STR20-00293
+40806022,Cozy Apartment in Heart of Downtown!,317251520,Katie,,Bozeman,45.6827,-111.04561,Entire home/apt,95,2,204,2025-07-20,2.96,4,19,4,STR23-00101
+41080693,Comfy West Side Townhouse w/ Two Master Suites,206664747,Penny S,,Bozeman,45.68641,-111.10851,Entire home/apt,258,2,62,2025-08-17,0.88,1,109,4,STR22-00070
+41296861,Charming Home Near MSU & Downtown Bozeman,32302835,Sarah,,Bozeman,45.68151,-111.04976,Entire home/apt,189,2,251,2025-10-27,3.55,1,341,24,STR20-00131
+41749663,Aspen Brook - Immaculate home with mountain views.,329791321,Patrick,,Bozeman,45.72972,-111.06746,Entire home/apt,396,30,67,2025-05-30,1.02,1,314,2,
+42330186,The Gray Box! Downtown Apartment,80123200,Heather,,Bozeman,45.68531,-111.03714,Entire home/apt,135,1,454,2025-10-26,6.56,1,146,52,str21-00025
+42471467,ADU | Stylish Guesthouse | Walk to Downtown!,22366054,Tessa,,Bozeman,45.68469,-111.03912,Entire home/apt,125,2,312,2025-11-01,4.54,10,331,32,STR21-00033
+42563510,Main St Bozeman Condo - Walk to Parks & Eateries!,122381278,Evolve,,Bozeman,45.67899,-111.02318,Entire home/apt,235,2,69,2025-09-15,1.06,9,312,8,STR23-00051
+42690670,Bozeman Surf House,340073907,Robert Thurin,,Bozeman,45.68477,-111.03245,Entire home/apt,,400,142,2024-07-28,2.30,1,269,0,Str20-00257
+42913733,Historic Bozeman Hideaway,2209026,Kristen,,Bozeman,45.683712,-111.024773,Entire home/apt,,30,99,2025-10-01,1.65,3,0,4,
+43516278,Downtown Bungalow - side door,26925375,Jack Michale,,Bozeman,45.67757,-111.03405,Entire home/apt,140,1,421,2025-11-07,6.40,2,326,74,STR23-00008
+43624070,"Stylish Two-Bedroom Near Dining, Trails & Downtown",2485195,Kay,,Bozeman,45.66105,-111.03419,Entire home/apt,,3,89,2025-09-10,1.66,1,0,2,STR20-00032
+43689621,Cozy upstairs apartment - 5 blocks from downtown,22056231,Kelsey,,Bozeman,45.68364,-111.04161,Entire home/apt,,2,249,2025-07-07,3.79,1,0,10,STR22-00046
+43745220,"Adorable, recently renovated 1918 bungalow",67490299,Matthew,,Bozeman,45.67827,-111.04609,Entire home/apt,,30,2,2024-07-31,0.05,1,0,0,
+43745279,Lindley House,8224408,Paul,,Bozeman,45.67626,-111.03205,Entire home/apt,601,2,18,2025-03-30,0.31,17,276,2,str20-00389
+43745331,Northside Modern Farmhouse,8224408,Paul,,Bozeman,45.68406,-111.03148,Entire home/apt,279,2,13,2025-08-26,0.21,17,271,3,str20-00209
+43928912,*Luxury+Romance Downtown* Absolutely Dreamy Shower,169754903,VR Bozeman,,Bozeman,45.67809,-111.03002,Entire home/apt,285,1,118,2025-11-02,1.82,8,317,9,STR23-00096
+43928924,*Downtown for 4* Upscale + Walk to everything!,169754903,VR Bozeman,,Bozeman,45.6781,-111.03002,Entire home/apt,311,1,86,2025-11-04,1.35,8,317,6,STR23-00095
+45027743,Modern ADU In Bozeman South Side Historic,80104837,Arne,,Bozeman,45.67701,-111.04049,Entire home/apt,282,2,84,2025-10-26,1.35,1,341,21,STR23-00072
+45075319,"Luxury + Sauna, The Woodland Loft",219957508,Luke,,Bozeman,45.68884,-111.06606,Entire home/apt,,1,515,2025-11-01,8.16,1,231,91,STR21-00003
+45179305,2 blocks to DOWNTOWN BOZEMAN!!!,31042092,Bri,,Bozeman,45.67728,-111.03355,Entire home/apt,,2,62,2025-05-27,0.98,1,0,2,STR23-00068
+45381974,Cozy Home in the Heart of Downtown,317251520,Katie,,Bozeman,45.68285,-111.04523,Entire home/apt,,2,129,2025-08-30,2.16,4,0,34,STR23-00016
+45543284,"Cozy & Luxe ""Lagom1Stay"" Top Floor Loft Downtown",241117654,Abigail,,Bozeman,45.677583261624356,-111.04621612380372,Entire home/apt,178,2,183,2025-11-08,4.53,1,139,39,STR20-00391
+45636583,GREAT Location in Downtown Bozeman!,368324386,John,,Bozeman,45.67916,-111.04732,Entire home/apt,93,2,275,2025-11-09,4.46,1,300,47,STR23-00092
+45825187,Immaculate Downtown Bozeman Condo 1 Block off Main,27061791,Ambrose And Jill,,Bozeman,45.67761,-111.04702,Entire home/apt,149,2,239,2025-11-09,3.99,1,295,49,STR20-00392
+46104133,Lamme Hideaway,104010331,Dream MT,,Bozeman,45.68038,-111.04265,Entire home/apt,358,30,37,2024-05-10,0.61,3,247,0,
+46377655,*Downtown + Privacy * ~ 2 Separate Flats Included!,169754903,VR Bozeman,,Bozeman,45.6781,-111.03002,Entire home/apt,457,2,111,2025-08-11,2.01,8,315,12,STR23-00095
+46570803,Modern Townhouse on Galligator Trail Downtown BZN,8675457,Evan,,Bozeman,45.66722,-111.03707,Entire home/apt,92,30,3,2023-06-12,0.05,1,130,0,
+46641566,"The Aviation Suite - great location, lovely views",7161309,Orlando,,Bozeman,45.70168,-111.09859,Entire home/apt,85,30,30,2025-08-31,0.50,3,364,2,
+46816607,Trailer Glamping of Story Hills,7831671,Lei-Anna & Troy,,Bozeman,45.69257,-111.02437,Entire home/apt,80,1,60,2025-08-23,1.23,1,346,14,
+47469271,Basecamp Bozeman   (STR22-00050),207748076,Richard,,Bozeman,45.67383,-111.05377,Entire home/apt,122,2,50,2025-07-01,1.18,1,82,5,STR22-00050
+47769612,Charming cozy 3 bedroom condo walk to dinner,374451536,Dan,,Bozeman,45.68277,-111.0439,Entire home/apt,180,2,187,2025-10-17,3.22,3,342,44,STR22-00055
+47871817,Cozy Studio in the Heart of Downtown,317251520,Katie,,Bozeman,45.68282,-111.04558,Entire home/apt,,2,314,2025-08-19,5.57,4,0,35,STR23-00135
+47890304,Bozeman 303: Your Bozeman Basecamp!,21834257,Jacqui,,Bozeman,45.67851,-111.04722,Entire home/apt,153,2,200,2025-11-05,3.45,1,329,25,STR20-00399
+47906487,"Charming Downtown Apartment, quiet & close to Main",374451536,Dan,,Bozeman,45.68102,-111.04372,Entire home/apt,115,1,166,2025-11-10,2.89,3,365,20,STR22-00021
+47966159,Picturesque condo with sweeping mountain views,62463332,Devan,,Bozeman,45.64895,-111.06869,Entire home/apt,120,28,5,2025-09-30,0.12,1,128,1,
+48122335,"Bozeman Retreat: Clean, Comfortable, Downtown",388067748,Anna,,Bozeman,45.684978,-111.041138,Entire home/apt,185,2,128,2025-11-10,2.22,2,316,16,STR21-00005
+48167177,SOBO #403 Downtown & MSU KING BED,4080107,Elise,,Bozeman,45.67814,-111.04756,Entire home/apt,94,1,234,2025-10-30,4.10,2,254,40,STR23-00196
+48168037,SOBO #301 Downtown & MSU Queen Bed,4080107,Elise,,Bozeman,45.67814,-111.04756,Entire home/apt,99,2,255,2025-11-05,4.46,2,259,43,STR23-00195
+48200822,Private studio apartment near downtown Bozeman,150728239,Jessica,,Bozeman,45.6714,-111.05277,Entire home/apt,145,2,361,2025-11-09,6.30,1,344,66,STR23-00176
+48428210,Bridger View,205470126,Chris,,Bozeman,45.69539,-111.06816,Entire home/apt,103,29,24,2025-01-30,0.43,1,99,1,STR23-00012
+48563248,The Cowboy Inn | *Luxury Western Downtown Flat*,166104792,Caleb Joshua,,Bozeman,45.68212,-111.04011,Entire home/apt,149,2,148,2025-10-25,3.14,4,282,37,STR23-00064
+48700264,Prof. Decorated 3BR Townhouse,44342268,Samuel Ralph,,Bozeman,45.67968,-111.09647,Entire home/apt,240,3,51,2025-10-19,0.92,1,246,16,STR24-00036
+48793153,Smack Dab in the Middle of Bozeman!,393645536,Arik,,Bozeman,45.68786,-111.05606,Entire home/apt,232,3,121,2025-11-08,2.20,1,293,33,STR20-00387
+48974287,The Granny Flat,6343008,Drew,,Bozeman,45.69059,-111.09576,Entire home/apt,110,2,126,2025-10-28,2.74,1,186,39,STR23-00152
+48979458,"Parks, trails and open spaces!",179304077,Jami,,Bozeman,45.71233,-111.07847,Entire home/apt,173,2,48,2025-10-12,0.91,1,8,11,STR21-00004
+49045151,Sweet Little Bungalow -  Full of Plants and Light,174302859,Alayna,,Bozeman,45.66441,-111.04006,Entire home/apt,85,27,16,2025-11-08,0.29,1,152,3,
+49096743,1 Bedroom Apartment with Spectacular Views,395972229,Cody,,Bozeman,45.69013,-111.09505,Entire home/apt,104,1,275,2025-11-02,5.12,1,257,50,Str23-00171
+49426669,"Beautiful, clean townhome near MSU.",398642839,Dirk,,Bozeman,45.67174,-111.058,Entire home/apt,227,27,9,2025-08-03,0.17,1,176,2,
+49563956,Mountain studio-luxe finishes upscale neighborhood,72406868,Jennifer Mae,,Bozeman,45.68269,-111.10016,Entire home/apt,165,1,137,2025-10-26,2.57,1,358,16,STR21-00018
+49585772,Chic Bozeman Apartment - 1 Block Off West Main St!,122381278,Evolve,,Bozeman,45.67814,-111.04756,Entire home/apt,174,3,94,2025-11-03,1.72,9,323,22,STR23-00184
+49638052,Trapper's Tea Downtown,16439933,Caitlin,,Bozeman,45.67702,-111.04866,Entire home/apt,189,3,83,2025-10-12,1.54,1,39,14,STR23-00180
+49748930,Outwest Hideaway - One Bedroom Apartment in Bozema,158595657,Mountain Home,,Bozeman,45.683002,-111.10436,Entire home/apt,264,1,46,2025-07-25,1.01,41,353,9,STR22-00048
+49748933,West Side Oasis - Modern Townhome in Bozeman's Val,158595657,Mountain Home,,Bozeman,45.683002,-111.10436,Entire home/apt,263,1,45,2025-10-20,0.84,41,337,15,STR22-00048
+49808248,"Homey Stay on Hoover Way Bozeman, MT!",163200599,Julie,,Bozeman,45.70094,-111.07488,Entire home/apt,200,2,152,2025-10-12,2.82,1,72,26,STR21-00017
+50073308,Valley west Condo,167100607,Dillon,,Bozeman,45.68412,-111.1038,Entire home/apt,225,1,53,2024-10-06,2.15,1,50,0,STR24-00000
+50075610,The Fox Den in Downtown Bozeman,219491,Elinor (Ellie),,Bozeman,45.678143,-111.047562,Entire home/apt,151,1,238,2025-10-12,4.44,3,289,38,STR23-00116
+50191565,The City Slicker -  Spacious 3 Bedroom Luxury Town,158595657,Mountain Home,,Bozeman,45.683912,-111.039173,Entire home/apt,960,1,61,2025-09-22,1.21,41,296,15,STR22-00098
+50196973,"Bozeman Retreat: Hip, Clean, Comfy, Downtown",388067748,Anna,,Bozeman,45.684978,-111.041138,Entire home/apt,247,3,41,2025-09-21,0.77,2,22,7,STR21-00013
+50246548,Bozeman 406 Downtown Loft with Indoor Parking!,3083856,Carrie,,Bozeman,45.678143,-111.047562,Entire home/apt,186,1,193,2025-10-21,3.71,2,322,36,STR23-19013
+50268142,Airy Summit Guesthouse with Mountain Views,17222868,Leah,,Bozeman,45.71015,-111.08063,Entire home/apt,140,28,35,2024-10-04,0.66,1,256,0,
+50372449,Perkins Perch,8224408,Paul,,Bozeman,45.68446,-111.03054,Entire home/apt,456,2,26,2025-09-01,0.55,17,271,9,str21-00016
+50520697,Downtown Bungalow - front door,26925375,Jack Michale,,Bozeman,45.67758,-111.03448,Entire home/apt,,1,65,2025-10-18,1.22,2,5,9,STR23-00008
+50545056,Northside Nook  -  Studio w/ Loft,126115316,Brady,,Bozeman,45.68236,-111.02455,Entire home/apt,,3,90,2025-09-25,2.05,1,0,16,STR22-00013
+50570285,Downtown Modern Bungalow - 3BR w/ Hot Tub,147570980,Catherine,,Bozeman,45.67004,-111.04376,Entire home/apt,170,28,6,2025-08-02,0.13,1,268,1,
+50675728,Luna Lodge Walkable to Downtown and indoor parking,87338185,Carrie,,Bozeman,45.678093,-111.046989,Entire home/apt,154,2,108,2025-11-08,2.36,1,340,25,STR21-00062
+50912777,Beall Street Bungalow-3 blocks from Downtown,44596719,Jade,,Bozeman,45.68119,-111.03468,Entire home/apt,168,1,328,2025-10-28,6.71,2,320,85,STR23-00141
+50980152,Downtown Guesthouse,62405798,Ana,,Bozeman,45.674362,-111.033211,Entire home/apt,79,3,281,2025-10-26,5.47,1,115,56,STR21-00019
+50980860,Downtown Villa,8224408,Paul,,Bozeman,45.68353,-111.0355,Entire home/apt,255,2,27,2025-10-19,0.51,17,186,8,str23-00138
+51088432,GORGEOUS SOBO Urban Loft in Downtown Bozeman,21497881,Victoria,,Bozeman,45.67872,-111.04854,Entire home/apt,131,28,137,2025-10-26,2.71,1,361,41,STR23-00128
+51127349,"North Bozeman Loft, Queen bed, Full Kitchen,W/D",62778374,John,,Bozeman,45.68804,-111.03484,Entire home/apt,170,3,71,2025-09-29,1.35,1,269,10,STR21-00028
+51169850,Chic Bozeman Getaway - Mins from downtown,56404884,Sharon,,Bozeman,45.70245,-111.073448,Entire home/apt,299,1,95,2025-10-12,1.92,1,99,12,STR21-00048
+51225637,Midtown Birdhouse,414692326,Kenneth,,Bozeman,45.68094,-111.04684,Entire home/apt,90,2,128,2025-11-09,2.45,1,327,25,STR23-20495
+51361417,Welcoming 3 BDRM/2.5 BA home—sleeps up to 9!,44712267,Emily,,Bozeman,45.68777,-111.05505,Entire home/apt,275,3,109,2025-10-18,2.10,1,32,20,STR22-00007
+51543047,Heart of Bozeman: Two-Bedroom Private Suite,391326883,Ken,,Bozeman,45.68758,-111.06143,Entire home/apt,,1,128,2025-08-24,2.47,1,1,20,STR23-00188
+51747502,Par Court - Cute Townhome Located in A Quiet Neigh,158595657,Mountain Home,,Bozeman,45.70424,-111.0232,Entire home/apt,220,1,0,,,41,365,0,STR23-54321
+51747515,Bozeman Southside Retreat- 30+ Night Rental Home o,158595657,Mountain Home,,Bozeman,45.64361,-111.06736,Entire home/apt,196,1,1,2025-07-08,0.23,41,211,1,STR23-12345
+51747517,Heart of Bozeman - Luxury Condo in Downtown Bozema,158595657,Mountain Home,,Bozeman,45.67944,-111.03821,Entire home/apt,145,1,0,,,41,325,0,STR23-12345
+51747520,Peak View Townhome - Modern Townhome with Amazing,158595657,Mountain Home,,Bozeman,45.64791,-111.06808,Entire home/apt,212,27,2,2025-07-18,0.15,41,349,1,
+51747521,Skyview Penthouse- Luxury penthouse in downtown Bo,158595657,Mountain Home,,Bozeman,45.6797,-111.03749,Entire home/apt,212,27,1,2024-03-30,0.05,41,275,0,
+51747523,Bridger View Loft -New 30+ Day Furnished Rental Ne,158595657,Mountain Home,,Bozeman,45.68319,-111.02188,Entire home/apt,170,1,0,,,41,307,0,STR23-12345
+51825573,Downtown Bozeman Western Cottage,1259005,Alexandria,,Bozeman,45.68239,-111.02943,Entire home/apt,199,2,137,2025-10-19,2.71,1,179,20,STR22-00056
+52005720,ADU208: Immaculate 1-bedroom downtown ADU,103773075,Reno,,Bozeman,45.685394,-111.034073,Entire home/apt,156,2,89,2025-10-19,1.78,2,305,31,STR21-00036
+52225142,Western Magic - 3 Bedroom + Office Bozeman Condo,9358423,Julie,,Bozeman,45.68662,-111.11566,Entire home/apt,219,30,37,2024-06-04,0.74,1,194,0,
+52225520,Meadowlark Suite,20710905,Jacquie,,Bozeman,45.67527,-111.0467,Entire home/apt,118,2,186,2025-11-09,3.75,1,159,43,STR21-00038
+52258846,The Cat`s Meow,104010331,Dream MT,,Bozeman,45.68864,-111.04312,Entire home/apt,352,30,18,2023-07-17,0.36,3,246,0,
+52281958,Olive House - downtown retreat,7161309,Orlando,,Bozeman,45.6776,-111.04815,Entire home/apt,125,3,182,2025-10-21,3.77,3,255,41,STR23-00123
+52303432,Access to all things Bozeman - with indoor parking,271534497,Jason,,Bozeman,45.67758,-111.04696,Entire home/apt,202,3,74,2025-10-20,1.51,1,283,17,STR23-00163
+52305194,Bozeman Prairie Craftsman,423332913,Mark,,Bozeman,45.69842,-111.08659,Entire home/apt,463,2,47,2025-10-12,0.94,1,45,9,STR25-00049
+52425494,"Access Friendly Location. Airport, MSU & Trails",242945835,Stephanie,,Bozeman,45.70787,-111.08127,Entire home/apt,199,31,59,2025-08-19,1.20,1,31,8,STR24-00019
+52436764,Clean & Cozy 2 Bedroom Suite - Near Downtown & MSU,3502709,Dylan,,Bozeman,45.67581,-111.05659,Entire home/apt,95,1,288,2025-10-27,6.05,1,50,49,str21-00051
+52441838,Quiet 1-Bedroom guest suite with hot tub access!,35291991,Tiera,,Bozeman,45.71441,-111.02946,Entire home/apt,72,2,120,2025-10-19,2.41,1,303,40,STR23-00178
+52513808,Modern Midtown Loft,425045303,Jamie Lynn,,Bozeman,45.68719,-111.04393,Entire home/apt,96,3,85,2025-10-28,1.82,1,318,25,STR23-00148
+52537069,"Charming top floor 3 bedroom condo, walk to dinner",374451536,Dan,,Bozeman,45.68326,-111.04304,Entire home/apt,172,1,74,2025-11-09,1.49,3,349,16,STR23-00237
+52570170,**Downtown Bozeman Historic Main Street Condo**,12702811,Carla,,Bozeman,45.67941,-111.03955,Entire home/apt,171,3,75,2025-10-06,1.58,3,344,14,STR21-00056
+52610317,Downtown Bozeman Main Street Suite,12702811,Carla,,Bozeman,45.68005,-111.03929,Entire home/apt,192,3,129,2025-10-27,2.89,3,338,29,STR22-00005
+52629865,Mid-Century Bozeman Townhome ~ 1 Mi to Dtwn!,122381278,Evolve,,Bozeman,45.66863,-111.04056,Entire home/apt,,30,10,2025-08-31,0.23,9,6,2,
+52809552,Dwell Skyview,8224408,Paul,,Bozeman,45.682308,-111.027911,Entire home/apt,127,2,16,2025-04-07,0.33,17,174,1,str22-00017
+52864546,Cheerful 5 bedroom residential home .,428015297,Brian,,Bozeman,45.70222,-111.01177,Entire home/apt,800,30,4,2023-12-21,0.10,1,363,0,
+52894917,"Large Home w/ Patio & Yard, 2 Mi to Downtown",122381278,Evolve,,Bozeman,45.66021,-111.02286,Entire home/apt,560,30,19,2023-11-05,0.39,9,326,0,
+53149809,Midtown Retreat - Condo w/ great location for skii,158595657,Mountain Home,,Bozeman,45.687916,-111.044533,Entire home/apt,312,1,41,2025-10-04,0.90,41,329,14,STR22-00106
+53151215,DOWNTOWN BOZEMAN Condo Monthly Rental,417219481,Olivia,,Bozeman,45.67944,-111.03692,Entire home/apt,200,30,1,2022-09-02,0.03,1,121,0,
+53281258,Luxury at it's best! King 1 bed studio Super Host!,225774632,Joe And Michelle,,Bozeman,45.68692,-111.04542,Entire home/apt,207,2,35,2025-10-12,0.73,4,365,6,STR23-00080
+53344108,Charming 2-Bedroom Apartment – Walk to Downtown!,243371257,Travis,,Bozeman,45.68203,-111.05148,Entire home/apt,189,30,93,2025-05-19,1.93,1,355,1,
+53395300,The Nest - Great Value! Cozy ADU Close To Downtown,158595657,Mountain Home,,Bozeman,45.683842,-111.039383,Entire home/apt,146,1,34,2025-10-18,0.72,41,332,10,STR22-00093
+53444312,"Family Home near MSU & Downtown | Lake, Yard, BBQ",191771128,Muneer,,Bozeman,45.68708,-111.11291,Entire home/apt,192,3,96,2025-10-22,2.34,1,234,31,Exempt
+53493470,Downtown Cowboy Condo on Main,194602628,Lori,,Bozeman,45.678993,-111.022896,Entire home/apt,168,2,167,2025-11-03,3.52,1,286,41,STR21-00053
+53607095,Amazing Montana Decor Condo!,225774632,Joe And Michelle,,Bozeman,45.68799,-111.04346,Entire home/apt,186,2,64,2025-10-13,1.36,4,361,13,STR23-00081
+53611532,Renovated Townhouse in the Heart of Bozeman,324665946,James,,Bozeman,45.68934,-111.04311,Entire home/apt,170,3,75,2025-09-14,1.77,1,30,9,STR23-00098
+53614256,Montana Luxury Condo at its Best!,225774632,Joe And Michelle,,Bozeman,45.68845,-111.04488,Entire home/apt,316,2,50,2025-10-12,1.05,4,353,8,STR23-00079
+53631171,Lovely 3 Bedroom Condo Near MSU and Downtown #C,434235941,Tuyet Ngan Thi,,Bozeman,45.6756,-111.06407,Entire home/apt,155,1,114,2025-09-14,2.42,3,336,34,Str23-00127
+53663663,Studio apartment sits above restaurants & bars,339686590,Shaylee,,Bozeman,45.68693,-111.04391,Entire home/apt,169,30,49,2023-10-16,1.04,1,365,0,
+53679965,Private suite / Cali king bed / beautiful Bozeman,19442684,John,,Bozeman,45.67677,-111.07857,Private room,425,4,41,2023-09-25,0.88,1,365,0,STR45-46382
+53740492,Walk to everything. We now have air conditioning.,20374203,Laura,,Bozeman,45.68156,-111.04654,Entire home/apt,204,3,55,2025-10-12,1.29,1,347,10,STR22-00014
+53888773,Cottage with sauna in downtown Bozeman,60108530,Lark,,Bozeman,45.68372,-111.02553,Entire home/apt,125,1,275,2025-11-09,6.04,2,145,55,STR23-00059
+54056354,Cockrill House - Historic Home Located Close To Do,158595657,Mountain Home,,Bozeman,45.677101,-111.042,Entire home/apt,576,1,37,2024-05-12,0.82,41,280,0,STR20-00363
+54241392,Peaceful room w/ private bathroom,162342143,Evelyn,,Bozeman,45.67445,-111.08531,Private room,90,2,124,2025-07-06,2.72,1,56,4,Exempt
+54307070,Downstairs Unit- Nice condo near MSU and downtown,434235941,Tuyet Ngan Thi,,Bozeman,45.67542,-111.06216,Entire home/apt,139,30,19,2022-10-02,0.42,3,316,0,
+517215584943706040,💥New! 👑KING BEDS 🐶Pets📍Location ⛰Views 🔹Modern,282205909,Heather,,Bozeman,45.7015,-111.07297,Entire home/apt,179,60,3,2023-11-24,0.08,1,314,0,
+537860368072032340,Bozeman Cozy Condo,97952734,Brandy,,Bozeman,45.70885,-111.08043,Entire home/apt,,30,73,2025-06-07,1.58,1,0,2,
+546425566378883463,Modern Getaway in Downtown Bozeman!,441798626,Renee,,Bozeman,45.67716,-111.05729,Entire home/apt,400,3,43,2025-10-14,0.96,2,339,12,STR23-00233
+548783269779670430,Modern Downtown - Walk to Everything!!,370721732,Rebecca,,Bozeman,45.67235,-111.0466,Entire home/apt,100,2,349,2025-11-09,7.57,2,45,83,STR23-00167
+552884755359876744,Westlake Retreat:Midtown BZN,87300632,Liz,,Bozeman,45.68846,-111.04555,Entire home/apt,177,2,62,2025-10-13,1.37,31,166,8,STR23-00022
+553433994880561912,"Luxury Bozeman, Montana Cottage Rental",9851660,Tanya,,Bozeman,45.670395,-111.007668,Entire home/apt,187,2,51,2025-11-08,1.67,1,124,25,STR23-00046
+553665581841208231,State-Of-The-Art-Cottage (Discounted Clean Fee),7704883,Christyn,,Bozeman,45.67017,-111.0084,Entire home/apt,227,2,60,2025-10-18,1.34,1,14,25,STR23-00154
+554209298323260405,"Modern Lux Cottage, Mtn Views, Close to Downtown",19523133,Pele,,Bozeman,45.66952,-111.00864,Entire home/apt,172,2,63,2025-11-03,1.39,2,202,16,STR23-00024
+554494826131033621,Charming Home by the Park with a Hot Tub,283815228,Michael,,Bozeman,45.68722,-111.08746,Entire home/apt,160,30,18,2025-09-01,0.41,1,192,3,
+557817837659306237,Original Bozeman Farmhouse,149465780,Cathleen,,Bozeman,45.67585,-111.03754,Entire home/apt,302,30,3,2025-08-02,0.22,1,285,2,
+559527062706136123,30-day rental in South Bozeman minutes MSU,78849013,Stay Montana,,Bozeman,45.64789,-111.06953,Entire home/apt,,30,3,2023-04-30,0.07,11,364,0,
+561717640997313387,Mntn Views - 5 mins from MSU/dwntwn & hot tub!,215007281,Jack,,Bozeman,45.66922,-111.00741,Entire home/apt,210,2,40,2025-11-05,1.16,1,180,18,STR22-00075
+570187917929856190,The Adventurer's Den - Downtown Bozeman,85914608,John,,Bozeman,45.68202,-111.04917,Entire home/apt,109,1,272,2025-10-20,6.91,2,72,81,STR23-00158
+573400389346700864,South Tracy Place in Historic Downtown Bozeman,127451313,Pamela,,Bozeman,45.673515,-111.03756,Entire home/apt,214,1,151,2025-11-09,3.40,1,331,33,Str23-00153
+577635693880635570,"Modern Downtown Condo, block off Main Street!",102597941,Tom,,Bozeman,45.67809,-111.04699,Entire home/apt,107,3,118,2025-10-22,2.80,1,30,31,STR21-00014
+580390397040922793,"Sweet condo 3 bedroom near MSU, downtown Bozeman",434235941,Tuyet Ngan Thi,,Bozeman,45.67516,-111.06284,Entire home/apt,159,1,52,2025-08-29,1.17,3,309,7,Str23-00127
+582075717033605282,"Large Townhome, Fenced Yard, walking Trails, a/c",59950618,Kellen,,Bozeman,45.69057,-111.10839,Entire home/apt,156,2,121,2025-11-09,2.73,1,166,38,STR22-00011
+588475152538336095,Historic 4 Bdrm w/ Hot Tub- Between MSU & Main St.,91589612,Joanna,,Bozeman,45.67448,-111.04925,Entire home/apt,563,3,85,2025-11-09,2.04,1,270,38,STR24-00117
+588556801205015597,"Brick and Iron House, NE Bozeman",143611149,Teri,,Bozeman,45.6828,-111.02837,Entire home/apt,225,2,84,2025-11-02,2.34,1,324,25,STR22-00096
+590006855129005370,Downtown Bozeman Condo-Sleeps 5 - Walk to Downtown,3083856,Carrie,,Bozeman,45.67784,-111.04811,Entire home/apt,148,2,96,2025-11-08,2.20,2,40,15,STR23-32377
+601374649522692032,Beautiful home in the heart of Gallatin Valley.,7003839,Taylor,,Bozeman,45.68696,-111.09331,Entire home/apt,336,2,52,2025-09-21,1.22,1,328,8,STR22-00015
+606641041131550235,The Downtown Bozeman Guest House,30062388,Cary,,Bozeman,45.68107,-111.03519,Entire home/apt,221,3,93,2025-10-06,2.31,1,33,29,STR23-00083
+607292612970501183,"BEAR 🐻 bedroom in central Bozeman, ladies only",69417001,Louisa,,Bozeman,45.67741,-111.05991,Private room,32,27,17,2025-10-20,0.40,14,323,2,
+607365320794077990,"FOX 🦊 bedroom in central Bozeman, ladies only",69417001,Louisa,,Bozeman,45.67687,-111.06147,Private room,30,28,15,2025-10-22,0.36,14,336,6,
+609294509698157532,Stylish 2-br condo in charming downtown Bozeman,425903673,Patricia,,Bozeman,45.67801754053326,-111.0468779406456,Entire home/apt,169,2,119,2025-09-07,2.91,1,334,22,STR22-00044
+618334957573105453,"Modern Guest Suite, 3 Miles from Downtown Bozeman",49756188,Marissa,,Bozeman,45.64664,-111.06569,Entire home/apt,160,2,119,2025-10-12,2.93,2,313,35,STR22-00077
+620357586433612824,Play in the mountains & stay downtown!,40742998,Katie,,Bozeman,45.68145,-111.04979,Entire home/apt,146,30,52,2025-07-30,1.25,1,219,1,
+620806144709121248,Cozy 2 bedroom townhouse near downtown Bozeman.,322166386,Han,,Bozeman,45.682636,-111.058601,Entire home/apt,,3,120,2025-09-19,3.15,1,154,25,STR22-00065
+621036084065264104,Elegant Bozeman Retreat!,266774265,Suz,,Bozeman,45.685432,-111.082054,Entire home/apt,150,30,2,2025-04-01,0.06,1,107,1,
+625945698382957503,Casa Opa - Immaculate luxury townhome just a few b,158595657,Mountain Home,,Bozeman,45.683735,-111.041245,Entire home/apt,509,1,31,2025-10-04,0.76,41,305,15,STR22-00099
+626166007252132576,4-Bedroom House in Central Bozeman,68861172,Erica,,Bozeman,45.68995,-111.05319,Entire home/apt,386,2,48,2025-08-12,1.18,1,95,16,STR23-00044
+629234668508392975,Garden Basement Apartment,20214941,Alli,,Bozeman,45.66106,-111.0353,Entire home/apt,114,3,77,2025-10-07,1.86,1,223,28,STR23-00089
+629671506047024108,Bozeman Bungalow Downtown,6542194,Jenny,,Bozeman,45.6813371,-111.0297002,Entire home/apt,180,2,141,2025-10-26,3.72,1,290,26,STR22-00072
+631893047184397847,New cozy modern condo near MSU,460235948,Callahan,,Bozeman,45.651386,-111.068047,Entire home/apt,95,1,110,2025-10-26,2.63,1,359,39,STR24-00007
+635359568019045907,New Chalet/Mins to Downtown/MSU/Hike/Fish/Ski,7732231,Tara,,Bozeman,45.68305,-111.10158,Entire home/apt,80,2,165,2025-10-27,4.12,1,344,53,STR23-00020
+636007021944503844,Modern guesthouse in Bozeman,9859988,Tobi,,Bozeman,45.68936,-111.09333,Entire home/apt,120,2,182,2025-11-09,4.35,1,248,42,STR23-00039
+639045968795630514,Riverside Townhome,432624625,Debra,,Bozeman,45.729839,-111.067642,Entire home/apt,115,30,5,2025-04-29,0.13,1,39,3,
+640809261320548067,Bozeman Bison Bunker - Near Montana State MSU,462304758,Leslie,,Bozeman,45.65155,-111.07762,Entire home/apt,216,1,92,2025-09-21,2.30,1,365,18,STR22-00067
+641334978923453922,Historical 2 Bedroom  House Downtown (on Main St.),462293753,Yanfei,,Bozeman,45.67962,-111.04536,Entire home/apt,154,1,173,2025-10-30,4.15,2,333,27,STR22-00019
+643569830401168312,Historical 5 bed  House in Downtown on Main Street,462293753,Yanfei,,Bozeman,45.67799,-111.0444,Entire home/apt,173,1,158,2025-10-05,3.81,2,314,42,STR22-00020
+645141111167456444,La Casa De Los Animales (the animal house),243889371,Mallory,,Bozeman,45.67989,-111.07472,Entire home/apt,245,1,103,2025-08-17,2.51,1,332,22,STR23-00097
+648162080320263556,The Bear Den: Downtown Bozeman Penthouse Mtn Views,219491,Elinor (Ellie),,Bozeman,45.67792,-111.0478,Entire home/apt,143,1,198,2025-11-09,4.82,3,318,56,STR23-00126
+650948670828244727,Bozeman's Main Stay the heart of downtown Bozeman,464649532,Christie,,Bozeman,45.6790578,-111.0445128,Entire home/apt,291,2,86,2025-09-29,2.11,1,329,22,STR23-00183
+654936580130899134,Urban Renewal-Great 1 bedroom 1 bath ADU just 4 bl,158595657,Mountain Home,,Bozeman,45.6841,-111.041,Entire home/apt,154,1,30,2025-10-07,0.74,41,349,6,STR22-00107
+655684504477318769,Bright updated log cabin with great outdoor living,53720318,Jane,,Bozeman,45.68623,-111.03973,Entire home/apt,400,3,78,2025-09-22,2.03,1,311,20,STR23-00049
+660191946795731569,Central Bozeman Downtown Condo in 5 West Building.,122919762,Cyd,,Bozeman,45.67952,-111.04253,Entire home/apt,110,30,1,2024-10-10,0.08,1,41,0,
+665301909432494038,2BR Mountainview | Balcony | Dog Friendly | W/D,37331595,Vacasa Montana,,Bozeman,45.68717,-111.04427,Entire home/apt,64,2,59,2025-09-04,1.49,3,353,15,STR22-00038
+668710495380377348,King Bed Condo | Country Views | 5 Min From MSU,441896318,Payton,,Bozeman,45.65152,-111.06863,Entire home/apt,100,1,88,2025-11-09,2.18,11,322,39,STR24-00010
+670180153402811011,Versatile 3 Bedroom Townhouse in convenient loc.,446248807,Ty,,Bozeman,45.690875,-111.1059493,Entire home/apt,128,2,131,2025-10-18,3.28,1,265,38,STR22-00049
+670436576549277803,Downtown Beall Park Modern 2 Bedroom,120268430,Olga,,Bozeman,45.68321,-111.03567,Entire home/apt,380,2,38,2025-10-20,0.99,1,1,8,STR23-00100
+671297966595864136,Downtown 2BR across from lovely park,7161309,Orlando,,Bozeman,45.68749,-111.03636,Entire home/apt,100,28,98,2025-10-16,2.43,3,269,28,STR23-00124
+673834076305334804,Park View | Walking Trails | Amazing Location MSU,457457017,Kennedy,,Bozeman,45.65083,-111.06909,Entire home/apt,86,1,95,2025-10-27,2.38,1,350,29,STR24-00017
+673899657996260537,(New Build) Townhome 10mins from Downtown,126358377,Jordan,,Bozeman,45.71141,-111.08247,Entire home/apt,103,1,177,2025-10-17,4.51,1,227,61,STR22-00033
+675168752481235212,Walkable 1BR | Fireplace | Patio,37331595,Vacasa Montana,,Bozeman,45.67995,-111.03924,Entire home/apt,114,2,88,2025-10-26,2.28,3,345,38,STR20-00238
+681837303455762227,Peach Street Mountain Retreat - Luxury apartment i,158595657,Mountain Home,,Bozeman,45.685635,-111.0458,Entire home/apt,254,1,47,2025-10-19,1.26,41,322,23,STR22-00105
+684167798771337575,Brand New Loft in the Heart of Downtown Bozeman!,388858579,Neil,,Bozeman,45.68417,-111.03907,Entire home/apt,143,2,124,2025-10-26,3.13,6,359,28,STR23-00181
+694011342626584843,Cozy Bright Studio in the Heart of Bozeman,317251520,Katie,,Bozeman,45.68317,-111.04503,Entire home/apt,,2,180,2025-09-15,4.60,4,0,35,STR23-00135
+702083877052289383,"Modern Downtown Condo w/Balcony, Parking & A/C",78849013,Stay Montana,,Bozeman,45.67697,-111.04782,Entire home/apt,171,1,17,2025-10-29,0.44,11,358,2,STR23-00071
+705082802450406622,Saddlepeak View:Midtown BZN,87300632,Liz,,Bozeman,45.68681,-111.04413,Entire home/apt,208,3,51,2025-09-29,1.37,31,167,12,STR23-00145
+708570967089315570,"Your Bozeman, Montana and Yellowstone Basecamp!",478100437,Rhonda,,Bozeman,45.71332,-111.07387,Entire home/apt,165,2,30,2025-10-13,0.79,1,210,7,STR23-00199
+710864131003324555,Spacious 3Bdm Gallatin Green Condo | Trail Access,22366054,Tessa,,Bozeman,45.70208,-111.09074,Entire home/apt,157,2,73,2025-10-24,1.90,10,289,24,STR23-00063
+718782424531822375,1 block from Main Street,237078650,Lindsay,,Bozeman,45.67764469999999,-111.0456932,Entire home/apt,89,3,83,2025-10-25,2.36,1,11,14,STR22-00102
+719644290329171991,Bozeman Winter Getaway | Heated Garage + Views,187536670,Charity,,Bozeman,45.678093,-111.0469886,Entire home/apt,149,2,103,2025-11-04,2.80,1,238,28,STR23-00161
+724711577396948826,"Stylish condo with Mtn Views, Walkable to Downtown",380379556,Nicole,,Bozeman,45.67707,-111.04608,Entire home/apt,168,2,54,2025-06-20,1.52,1,302,10,STR24-24194
+729177429823443077,Lush Victorian garden with Bridger views,159312,Raymond,,Bozeman,45.68753,-111.02909,Private room,140,2,41,2025-09-28,1.11,4,326,9,STR22-00071
+731157846501234670,Peaceful garden setting with 3 bedrooms,159312,Raymond,,Bozeman,45.687737583589794,-111.02902829206545,Entire home/apt,521,5,0,,,4,311,0,STR22-00071
+733431858602294708,"Modern Three Bedroom, One Block From Downtown!",378129433,Jake,,Bozeman,45.68041,-111.03832,Entire home/apt,165,2,130,2025-10-19,3.47,1,298,29,STR22-00078
+733544258624515986,"Modern, Luxury Comfort near Hospital and Downtown!",54268767,Melissa,,Bozeman,45.66926,-111.00779,Entire home/apt,150,28,11,2025-10-11,0.31,2,348,2,
+735399457576581158,Grand Blue - Downtown Charm with Modern Comfort,158595657,Mountain Home,,Bozeman,45.68217,-111.041985,Entire home/apt,254,1,42,2025-10-19,1.16,41,179,12,STR22-00094
+740807774712657109,Luxury Studio in desirable Bozeman neighborhood,92164178,Daryl,,Bozeman,45.68283,-111.10215,Entire home/apt,112,2,52,2025-11-08,1.46,1,188,25,Str23-00090
+744109164283136186,Cheerful & convenient two-bed townhome,34644364,Jean,,Bozeman,45.69155,-111.07119,Entire home/apt,100,30,7,2023-03-26,0.20,1,199,0,
+744478255073405873,In Town Cabin next to MSU,87807117,Brandon,,Bozeman,45.655081992055486,-111.045586,Entire home/apt,283,2,176,2025-10-21,4.79,1,165,44,Str22-00087
+744981219974591332,Charming Pet Friendly Home near Downtown Bozeman,68940904,The Arrival,,Bozeman,45.6762697,-111.0775055,Entire home/apt,218,2,47,2025-10-28,1.34,5,59,13,STR22-00109
+746272150575051077,"Amazing 3 Bedroom Apt, Just Blocks from Downtown!",444342086,Rory,,Bozeman,45.6813,-111.03761,Entire home/apt,293,30,12,2024-05-05,0.33,1,109,0,
+746287823014723902,Adorable 1-Bedroom Guest house with free parking,154200211,Allison,,Bozeman,45.66868,-111.1058,Entire home/apt,122,3,54,2025-10-14,1.48,1,326,11,STR23-00034
+747853167329541412,Cozy Cooper Park Getaway - Downtown Bozeman,388858579,Neil,,Bozeman,45.67594,-111.04833,Entire home/apt,227,28,5,2024-04-19,0.14,6,201,0,
+749071260982402025,A downtown Bozeman sanctuary,8705857,Lydia,,Bozeman,45.68166541794421,-111.04264382482019,Entire home/apt,207,27,16,2025-07-16,0.47,1,283,1,
+750942734997774914,Clean and comfy condo in Bozeman with backyard!,403281935,Julie,,Bozeman,45.69078433350981,-111.11072774232788,Entire home/apt,200,28,9,2025-10-04,0.36,1,123,3,
+751509959977511403,Wanderlust Landing,89160947,Sandra,,Bozeman,45.6808,-111.10076,Entire home/apt,84,1,216,2025-10-25,6.41,1,145,80,STR22-00104
+752850020109878238,3 Bedroom Bozeman Bungalow,257892190,Julia,,Bozeman,45.66109,-111.03294,Entire home/apt,161,1,116,2025-10-21,3.20,1,237,41,STR23-00210
+753638881457290583,Peaceful Bozeman Retreat,2209026,Kristen,,Bozeman,45.68315,-111.0256,Entire home/apt,203,3,70,2025-10-23,2.00,3,316,24,STR22-00058
+756562057400552311,Pet & Family Friendly Apartment Close to All !,247540892,Shaun,,Bozeman,45.67984,-111.10283,Entire home/apt,101,1,105,2025-10-26,3.25,1,336,36,STR23-00050
+760721591626470539,Cheerful home close to trails and downtown,81733702,Erin,,Bozeman,45.65812,-111.02008,Entire home/apt,146,30,0,,,1,364,0,
+761901172736042288,Garden grotto with wood stove,159312,Raymond,,Bozeman,45.68817,-111.02836,Private room,183,2,31,2025-09-14,0.85,4,327,1,STR22-00071
+761946989286762213,Airy & spacious top floor suite,159312,Raymond,,Bozeman,45.68703,-111.02994,Private room,220,2,6,2024-09-22,0.17,4,314,0,STR22-00071
+777089140263640024,"Epic Downtown Locale. Trails, views, more!",15495078,Josh,,Bozeman,45.6741525,-111.0305273,Entire home/apt,351,4,56,2025-10-19,1.62,1,244,22,STR23-00197
+779190288821368126,NEW Lion’s Den | King Bed | Walk to MSU,441896318,Payton,,Bozeman,45.66179,-111.067,Entire home/apt,103,1,107,2025-10-26,3.02,11,300,38,STR23-00062
+779228204397216929,King Bed | Country Music in the Big Sky,441896318,Payton,,Bozeman,45.66179,-111.067,Entire home/apt,103,1,117,2025-10-31,3.43,11,331,44,STR23-00060
+779228493719965346,Walk to MSU | Bridger + Big Sky | King Bed,441896318,Payton,,Bozeman,45.66179,-111.067,Entire home/apt,101,1,117,2025-11-09,3.31,11,340,46,STR23-00105
+779242618479987421,Yellowstone Country | Mountain Views | Walk to MSU,441896318,Payton,,Bozeman,45.66179,-111.067,Entire home/apt,103,1,151,2025-10-30,4.27,11,323,51,STR23-00061
+780455121479499585,"Gourmet kitchen, walk-in shower and amazing views!",9476037,Craig,,Bozeman,45.7006,-111.0868,Entire home/apt,226,3,14,2025-03-05,0.41,1,226,1,STR23-00035
+791968903124153834,NEW | Game House | Near Downtown,456500579,McCade,,Bozeman,45.67741,-111.07777,Entire home/apt,154,1,93,2025-11-04,2.78,3,282,23,STR23-00073
+791974702034213602,Heart of Bozeman | Juke Box Jet Away,456500579,McCade,,Bozeman,45.67756,-111.07771,Entire home/apt,178,1,68,2025-10-26,2.01,3,284,19,STR23-00057
+792657961239735749,Downtown Duplex | Game Room | Mountain Music,456500579,McCade,,Bozeman,45.67756,-111.07771,Entire home/apt,443,1,46,2025-10-12,1.41,3,275,21,STR23-00057
+797809064791798577,"Pet Friendly, Downtown near MSU w/Mountain Views",78849013,Stay Montana,,Bozeman,45.67718,-111.08361,Entire home/apt,288,1,12,2025-09-25,0.40,11,352,8,STR20-00112
+810812829888263061,'Heart of Bozeman' Townhome w/ Patio Near MSU,122381278,Evolve,,Bozeman,45.68641,-111.0562,Entire home/apt,264,2,15,2023-12-29,0.46,9,323,0,STR21-00054
+812293891329597358,Stylish SOBO Downtown Condo - Steps to Main St.,10719166,Ted And Ann Marie,,Bozeman,45.678108,-111.047012,Entire home/apt,158,2,23,2025-10-12,0.77,8,245,7,STR23-00174
+828372856525547623,Little Yellow House - Downtown Charming 2 BDRM,406871,Erin,,Bozeman,45.677804884636174,-111.04761477116395,Entire home/apt,230,2,68,2025-09-05,2.06,4,296,16,STR23-00164
+831152233793916909,Spacious & Modern 2Unit Home -Perfect for Families,10533936,Taylor,,Bozeman,45.67552,-111.05104,Entire home/apt,,1,52,2025-04-13,1.73,1,0,8,STR23-00187
+836412924149333068,Downtown Bozeman Getaway!,441798626,Renee,,Bozeman,45.6779863,-111.05773,Entire home/apt,,3,13,2025-09-10,0.44,2,327,5,STR23-00233
+841490489463124761,The Purple Palace - Historic Downtown BZN,388858579,Neil,,Bozeman,45.68182,-111.04217,Entire home/apt,201,2,53,2025-10-20,1.63,6,34,16,STR23-00038
+843683310882492943,NEW Movie Madness | Mountain Views | Shuffleboard,441896318,Payton,,Bozeman,45.67435,-111.11288,Entire home/apt,94,1,125,2025-11-05,3.86,11,350,35,STR23-00129
+843741511466971913,NEW Mountain View Retreat | Shuffle Board & Games,441896318,Payton,,Bozeman,45.67435,-111.11288,Entire home/apt,101,1,133,2025-11-09,4.11,11,344,48,STR23-00130
+843767329683138688,NEW | Outdoor Escape | Mountain Views,441896318,Payton,,Bozeman,45.67435,-111.11288,Entire home/apt,118,1,133,2025-11-03,4.11,11,351,46,STR23-00131
+843789240315372626,NEW | The Pit Stop | Mountain Views | Hot Springs,441896318,Payton,,Bozeman,45.67435,-111.11288,Entire home/apt,100,1,118,2025-11-02,3.67,11,314,43,STR23-00132
+850060899218507018,The Architect's Annex,505986694,Kristin,,Bozeman,45.6841905,-111.0253778,Entire home/apt,140,30,5,2025-10-18,0.17,1,238,2,
+858032290192543286,2 BR Centrally located bungalow with a yard and AC,37331595,Vacasa Montana,,Bozeman,45.68097,-111.04836,Entire home/apt,353,2,5,2025-07-06,0.17,3,365,1,STR23-00037
+863690516487184569,Bright + Modern Central Condo,32162998,Sarah,,Bozeman,45.68781,-111.06765,Entire home/apt,168,2,86,2025-10-21,2.84,1,28,50,STR23-00225
+866743704687717653,Hyalite View:Midtown Bozeman,87300632,Liz,,Bozeman,45.68728,-111.04448,Entire home/apt,207,2,51,2025-10-19,1.65,31,121,14,str23-00119
+866800960315586200,The Broken Edge - Downtown Bozeman Retreat,85914608,John,,Bozeman,45.68137,-111.04904,Entire home/apt,93,1,186,2025-10-24,6.25,2,64,77,STR23-00157
+868764892737614986,Modern 3Bdrm Stay | Mountain Views & Beach Access,22366054,Tessa,,Bozeman,45.7066366,-111.0388507,Entire home/apt,252,2,38,2025-06-19,1.25,10,150,13,STR23-00085
+869599672855821114,The Raccoon Den Downtown Bozeman,219491,Elinor (Ellie),,Bozeman,45.67824923242976,-111.04694545269012,Entire home/apt,147,1,131,2025-11-10,4.30,3,320,51,STR23-00125
+874657761125528795,Luxury Townhome w/Big Sky Views,10719166,Ted And Ann Marie,,Bozeman,45.688911,-111.108108,Entire home/apt,331,2,30,2025-09-29,0.98,8,337,13,STR21-00035
+875521839496363904,"Babcock House: monthly rental, steps from Downtown",4884278,Kathryn,,Bozeman,45.6776,-111.04399,Entire home/apt,286,30,7,2025-10-04,0.24,1,121,3,
+876772032673798997,Wallace Street Grocery,4727963,Matthew,,Bozeman,45.68346,-111.02891,Entire home/apt,100,2,141,2025-10-26,4.82,1,256,61,STR23-00066
+877800533994299020,Cozy Downtown Bozeman Apartment,33861244,Sten,,Bozeman,45.68622939999999,-111.0355788,Entire home/apt,,2,6,2025-06-29,0.20,1,0,2,STR23-00045
+881902444834952415,Modern Luxury Condo near MSU,10719166,Ted And Ann Marie,,Bozeman,45.650005,-111.0686823,Entire home/apt,137,30,0,,,8,347,0,
+882861196778295786,Convenient Downtown Bozeman Studio Midterm Rental,294131716,Marci,,Bozeman,45.67599,-111.0374,Entire home/apt,88,30,48,2025-08-31,1.64,1,349,4,STR20-00023
+884064750408569156,Elegant home with Mountain Views,485556286,Barbara,,Bozeman,45.6475576,-111.0683446,Entire home/apt,145,30,2,2025-06-01,0.11,1,87,1,
+884106583554500961,Meyers Lake Loft- 2BR Guesthouse,42294252,Theodore,,Bozeman,45.6840083,-111.1008377,Entire home/apt,161,3,69,2025-10-12,2.29,1,107,20,STR23-00014
+888674437339033450,"Sunlit loft with AC, fireplace and king bed",87352080,Rebeccah,,Bozeman,45.68411,-111.08209,Entire home/apt,119,1,234,2025-11-09,7.72,1,106,91,STR23-00048
+894262572544681789,2 bedroom apt in the heart of downtown Bozeman,510216735,Sharon,,Bozeman,45.67738,-111.0384,Entire home/apt,192,2,110,2025-10-19,3.70,2,263,36,STR23-20495
+896384642712866578,The Annie Street Retreat,161765884,Benjamin,,Bozeman,45.68947,-111.072,Entire home/apt,159,2,68,2025-08-31,2.41,1,43,19,STR24-00005
+897144005237382808,The BeAll House,6931340,Indra,,Bozeman,45.68185,-111.03916,Entire home/apt,280,1,55,2025-10-06,1.91,1,232,27,STR22-00066
+897810044993822991,Cozy Valley West Studio | Full Kitchen & Laundry,22366054,Tessa,,Bozeman,45.6798384,-111.1002558,Entire home/apt,99,2,48,2025-11-07,1.66,10,333,24,STR24-00003
+899125019892212651,Gorgeous Midtown Condo,135567233,Lycurgus,,Bozeman,45.6877567,-111.0472078,Entire home/apt,160,1,236,2025-11-09,8.04,1,274,93,STR23-00155
+900832237732732650,Grand Avenue Loft - Downtown,18097974,Steve,,Bozeman,45.68319,-111.04009,Entire home/apt,243,3,29,2025-10-15,2.56,1,306,29,STR24-00028
+901459145108835199,Charming Casita - 3 BDRM Downtown,406871,Erin,,Bozeman,45.67832,-111.04884,Entire home/apt,245,2,35,2025-10-13,1.18,4,286,15,STR23-00164
+901660910687906881,Downtown 5-BDRM Charming Historic Home,406871,Erin,,Bozeman,45.67747,-111.04729,Entire home/apt,460,2,46,2025-10-26,1.70,4,286,28,STR23-00164
+902288148307344832,Cozy Midtown Home,59049179,Elizabeth,,Bozeman,45.68672,-111.0566,Entire home/apt,,30,19,2024-07-13,0.66,1,1,0,
+902986920561938489,Charming 1890 Bungalow Downtown,23312806,Kim,,Bozeman,45.68197,-111.02798,Entire home/apt,,4,89,2025-10-15,3.00,1,0,25,STR23-00215
+903548737649149837,Bozeman Experience-Walk downtown,94524858,Andrea,,Bozeman,45.68017,-111.0419,Entire home/apt,214,3,60,2025-11-10,2.21,1,236,25,STR20-00382
+907255410839451666,Stunning Modern Home in the Heart of Bozeman,68940904,The Arrival,,Bozeman,45.67875,-111.02295,Entire home/apt,166,2,43,2025-11-03,1.64,5,322,21,STR23-00075
+911796238839021625,Private room in Bozeman,296586159,Mikaela,,Bozeman,45.66567,-111.04033,Private room,,1,67,2025-11-01,2.30,1,70,26,STR23-00234
+917480337323963603,Winter House - Great home located within walking d,158595657,Mountain Home,,Bozeman,45.683155,-111.03163,Entire home/apt,678,1,35,2025-10-13,1.25,41,284,17,STR23-00065
+917521445743830614,2 Adjoining Condos Rent Together,441896318,Payton,,Bozeman,45.67444,-111.11291,Entire home/apt,300,2,11,2025-06-23,0.48,11,339,3,STR23-00130
+918106223385876586,Newly Refurbished Midtown Apartment,5649163,Shannon,,Bozeman,45.69237529999999,-111.0481542,Entire home/apt,113,1,48,2024-07-24,1.66,1,161,0,STR23-00230
+919817449271186440,Charming downtown cottage,143544410,Toni,,Bozeman,45.684136,-111.0383747,Entire home/apt,203,2,77,2025-10-04,2.66,2,265,26,STR23-00112
+920346275120177072,Stay at a 1950s Classic Motel in Bozeman,521636962,Jacob,,Bozeman,45.682443451580724,-111.04536608095093,Private room,,1,32,2025-10-21,1.34,10,243,23,Exempt
+922555122262988509,Experience a classic motel in the heart of Bozeman,521636962,Jacob,,Bozeman,45.682638335167034,-111.04515150422974,Private room,129,1,15,2025-10-15,0.52,10,350,12,Exempt
+922562743410347446,Stay at a Classic Motor Inn in Bozeman Montana,521636962,Jacob,,Bozeman,45.682638335167034,-111.0451085888855,Private room,115,1,215,2025-11-09,7.81,10,352,165,Exempt
+922583355688509946,Retro Motel in Bozeman Montana,521636962,Jacob,,Bozeman,45.68254838898078,-111.04528025026245,Private room,124,1,105,2025-11-10,4.19,10,344,58,Exempt
+923076538132998326,Downtown Dream house,21447984,Sharon,,Bozeman,45.6698914,-111.0442737,Entire home/apt,280,4,9,2024-07-28,0.33,3,140,0,Exempt
+923290840210101734,Quaint Downtown Studio (4 blocks off Main),143544410,Toni,,Bozeman,45.68385,-111.03925,Entire home/apt,145,1,55,2025-10-02,1.98,2,300,24,STR23-00113
+924888237601129082,Downtown Executive Suite,168421505,Courtney,,Bozeman,45.67975,-111.03191,Entire home/apt,,28,4,2025-08-24,0.15,2,11,2,
+940676499307664079,Downtown Garden Getaway-Cozy home near downtown Bo,158595657,Mountain Home,,Bozeman,45.67782,-111.04637,Entire home/apt,480,1,43,2025-11-04,1.62,41,297,15,STR23-00070
+942245518568400791,Central location w/Western Flair,94704094,Sheridan,,Bozeman,45.6906,-111.11787,Entire home/apt,192,1,150,2025-11-09,5.64,1,277,77,STR23-00104
+945699328478141735,Classic Retro Motel in Bozeman,521636962,Jacob,,Bozeman,45.682593362091986,-111.0451085888855,Private room,144,1,4,2025-02-17,0.18,10,291,1,Exempt
+952912930838942462,Bobcat Chic: Downtown Bozeman,87300632,Liz,,Bozeman,45.67732,-111.04721,Entire home/apt,154,1,44,2025-10-27,1.72,31,170,16,str23-00122
+954261720717469282,Bozeman Creek House,8224408,Paul,,Bozeman,45.674947,-111.032174,Entire home/apt,409,2,11,2025-10-10,0.41,17,283,4,str23-00077
+960943303825338796,Aspen Hideout:Midtown Bozeman,87300632,Liz,,Bozeman,45.68708,-111.04532,Entire home/apt,178,2,42,2025-10-13,1.57,31,361,14,STR23-00140
+960958977315633386,Flats at G Park: 323 #204,87300632,Liz,,Bozeman,45.70661934058514,-111.04331095239257,Entire home/apt,113,30,3,2024-07-14,0.14,31,139,0,
+964555695094259497,Your Downtown Urban Sanctuary: Downtown Luxury!,169754903,VR Bozeman,,Bozeman,45.6807994,-111.030088,Entire home/apt,344,1,62,2025-10-14,2.34,8,288,25,STR23-00086
+964650864080023522,Spacious 1Bdrm Guest Suite Near MSU and Downtown,22366054,Tessa,,Bozeman,45.64226,-111.04475,Entire home/apt,94,1,44,2025-10-20,1.65,10,365,13,STR23-00216
+966950438050606228,Mountain Room – Walk to Farmers Market & Festival,13861863,Kendall,,Bozeman,45.67444,-111.03064,Private room,70,1,66,2025-09-10,2.45,3,340,24,STR23-00146
+966959453768551063,Garden Room - Walkable Bozeman Summer Base,13861863,Kendall,,Bozeman,45.67444,-111.03064,Private room,54,1,110,2025-08-24,4.13,3,341,60,STR23-00146
+978338162034126610,Luxury Mountain Views Downtown Bozeman,68940904,The Arrival,,Bozeman,45.70627,-111.03927,Entire home/apt,522,2,57,2025-11-03,2.18,5,293,22,STR23-00099
+982690315132166861,New 2br/2bath Condo Across from MSU,49379094,Grant & Mercede,,Bozeman,45.66348,-111.06187,Entire home/apt,168,30,3,2025-01-07,0.15,1,67,1,
+991243086542515281,Pagoda Peaks | Modern Luxury Near Bozeman Beach,166104792,Caleb Joshua,,Bozeman,45.70566,-111.03787,Entire home/apt,394,2,33,2025-09-28,1.30,4,15,19,STR23-00162
+994123497980189517,"Main Street, Mountain View Luxury Condo in Bozeman",540165578,Amanda,,Bozeman,45.67899,-111.02322,Entire home/apt,320,3,36,2025-10-20,1.46,1,243,22,STR23-00058
+994328687289367772,Wentworth Condo,403857117,Ava,,Bozeman,45.68638,-111.04418,Entire home/apt,114,2,90,2025-10-23,3.55,1,166,42,STR24-00004
+1003670265286987594,"Dog Friendly Home, minutes to MSU & Downtown",78849013,Stay Montana,,Bozeman,45.68505,-111.07909,Entire home/apt,142,30,3,2025-02-10,0.18,11,162,2,
+1003670285635434122,"Dog Friendly Home, minutes to MSU & Downtown",78849013,Stay Montana,,Bozeman,45.68426,-111.08027,Entire home/apt,335,1,12,2025-10-13,0.66,11,318,6,STR21-00011
+1007212920533236270,Guest cottage behind the studio,5216140,Rob,,Bozeman,45.67283,-111.03137,Entire home/apt,228,3,57,2025-10-26,2.35,1,26,32,STR23-00156
+1008716432393782757,Rizen Cottage,543137520,Jeni,,Bozeman,45.67865515573207,-111.07981973217538,Entire home/apt,100,3,10,2025-09-14,0.46,1,252,4,STR23-00133
+1008763018263626408,Venue View: Midtown Bozeman,87300632,Liz,,Bozeman,45.68756,-111.04453,Entire home/apt,162,2,31,2025-09-28,1.41,31,165,13,STR23-00002
+1008778350694378706,The Cat's Meow:Midtown Bozeman,87300632,Liz,,Bozeman,45.68841,-111.04398,Entire home/apt,166,1,34,2025-09-14,1.41,31,140,10,STR21-00039
+1008789724045972475,The Lofty View:Midtown Bozeman,87300632,Liz,,Bozeman,45.68652,-111.0458,Entire home/apt,181,1,13,2025-10-21,0.53,31,170,1,STR21-00040
+1010311131880400929,Bridger Hawk - Mid-Century Classic (NEW),10719166,Ted And Ann Marie,,Bozeman,45.6834989,-111.0571699,Entire home/apt,366,2,19,2025-09-28,0.77,8,335,4,STR23-00019
+1013954581504450455,Style Points Shelter: Downtown,87300632,Liz,,Bozeman,45.67706,-111.04801,Entire home/apt,146,2,42,2025-10-20,1.71,31,169,19,STR23-00151
+1015469993854591582,Luxe*Lake and Mountain views*EV charger*Arcade,410307599,Crystal,,Bozeman,45.7066035,-111.0387232,Entire home/apt,390,2,59,2025-11-03,2.60,1,188,31,STR23-00150
+1015928247937089566,"Spacious Family Home | Privacy, Backyard w/ Patio",22366054,Tessa,,Bozeman,45.67552,-111.08934,Entire home/apt,183,28,5,2025-09-30,0.24,10,262,2,
+1016604349064457559,Bridger Hawk Suite (NEW),10719166,Ted And Ann Marie,,Bozeman,45.6834989,-111.0571699,Entire home/apt,187,1,9,2025-08-20,0.41,8,348,3,STR23-00019
+1016619106223207155,Bridger Hawk Duplex (NEW),10719166,Ted And Ann Marie,,Bozeman,45.6834989,-111.0571699,Entire home/apt,484,1,25,2025-10-05,1.07,8,335,13,STR23-00019
+1018080723786942494,"Beautiful townhouse - views, near MSU & downtown!",545036435,Susan,,Bozeman,45.64669,-111.05823,Entire home/apt,165,30,8,2025-11-02,0.37,2,127,3,
+1018734983212489525,Downtown Bozeman Fun!,8119685,Jane,,Bozeman,45.68005,-111.02426,Entire home/apt,115,1,56,2025-10-12,3.04,1,354,25,STR23-00243
+1019852506960723719,Cozy Downtown Condo,545489115,Payton,,Bozeman,45.68186,-111.03907,Entire home/apt,130,1,110,2025-10-28,4.71,3,310,58,STR23-00211
+1020231494198029286,Mustang Sally-One bedroom condo in Downtown Bozema,158595657,Mountain Home,,Bozeman,45.680523,-111.03767,Entire home/apt,129,1,0,,,41,227,0,STR23-12345
+1021721483687220240,Bozeman Bungalow -Convenient and Well Appointed Mo,158595657,Mountain Home,,Bozeman,45.70625,-111.02189,Entire home/apt,192,1,0,,,41,196,0,STR23-12345
+1021721487869505891,The Great Escape - Luxury Townhome in Downtown Boz,158595657,Mountain Home,,Bozeman,45.683823,-111.03882,Entire home/apt,,1,2,2024-12-31,0.15,41,42,1,STR23-12345
+1021721950430317225,High West - Brand New Condo in Downtown Bozeman Wi,158595657,Mountain Home,,Bozeman,45.681038,-111.03396,Entire home/apt,170,1,0,,,41,266,0,STR23-12345
+1021723335665913564,Rustic Overlook- 30 day rental in the new Merin bu,158595657,Mountain Home,,Bozeman,45.681034,-111.03629,Entire home/apt,199,1,1,2025-06-01,0.18,41,207,1,STR23-12345
+1021723339690110777,"Brentwood House - Furnished, 30+ day home rental i",158595657,Mountain Home,,Bozeman,45.689926,-111.06762,Entire home/apt,219,1,0,,,41,189,0,STR23-12345
+1021724095752448838,"Boylan Place - Cozy, 30+ day rental Northeast of D",158595657,Mountain Home,,Bozeman,45.704845,-111.02802,Entire home/apt,192,1,0,,,41,0,0,STR23-12345
+1023980376452932033,Fisherman’s Folly,21447984,Sharon,,Bozeman,45.67063,-111.03469,Entire home/apt,,4,1,2024-01-03,0.04,3,0,0,Exempt
+1026782007525175295,Urban Oasis for One,2209026,Kristen,,Bozeman,45.6847,-111.0245,Entire home/apt,99,30,4,2025-08-08,0.38,3,72,4,
+1027654963467851442,Downtown Chic Urban Abode,12702811,Carla,,Bozeman,45.67942704249036,-111.03974338620901,Entire home/apt,221,3,38,2025-10-20,1.61,3,357,18,STR23-00147
+1031220502585940136,Blackhaüs,512697355,Kate,,Bozeman,45.67015,-111.03446,Entire home/apt,,3,26,2025-09-02,1.14,1,0,4,STR23-00082
+1032050849550580437,"Modern townhouse - views, near MSU & downtown!",545036435,Susan,,Bozeman,45.64706,-111.05742,Entire home/apt,165,30,4,2025-08-21,0.23,2,42,2,
+1036435232089728824,Modern Bozeman Escape w/ Bridger Mountain Views!,122381278,Evolve,,Bozeman,45.70687,-111.03895,Entire home/apt,505,3,18,2025-10-05,1.03,9,219,12,STR23-00142
+1040565103561819864,Downtown Luxury Loft | Steps off of Main St.,545489115,Payton,,Bozeman,45.68186,-111.03907,Entire home/apt,171,1,109,2025-11-09,4.71,3,294,47,STR23-00212
+1040586311737102150,Concrete Cowboy | 2 Blocks from Main St.,545489115,Payton,,Bozeman,45.68132,-111.03727,Entire home/apt,156,1,92,2025-10-19,3.97,3,318,40,STR23-00213
+1057546014981433670,Contemporary Downtown Hideaway,483974145,Sherine,,Bozeman,45.6811133,-111.044916,Entire home/apt,141,2,83,2025-10-26,3.72,1,225,51,STR23-00185
+1060881441299393479,Aspen Aerie:Midtown Bozeman,87300632,Liz,,Bozeman,45.68688,-111.0452,Entire home/apt,,30,1,2024-03-08,0.05,31,47,0,
+1060894458595102197,Willson Residence,87300632,Liz,,Bozeman,45.67781548674542,-111.04255237915311,Entire home/apt,,180,0,,,31,1,0,
+1065297539864274153,Bozeman SOBO Loft 307 - Wonderful one bedroom,158595657,Mountain Home,,Bozeman,45.678135,-111.04695,Entire home/apt,176,1,28,2025-10-14,1.27,41,343,17,STR23-00177
+1069631846965108025,Cozy Apartment in Valley West,153016292,Colette,,Bozeman,45.68426,-111.10177,Entire home/apt,105,2,52,2025-10-25,2.46,1,154,20,STR23-00159
+1071667276764825262,Bozeman Bungalow: Pet Friendly w/ Fenced Yard,57780176,Renee,,Bozeman,45.68665,-111.10727,Entire home/apt,149,28,3,2025-02-16,0.18,1,225,1,
+1074108367285947842,Modern Mountain Retreat,4243521,Aimee,,Bozeman,45.69117,-111.11546,Entire home/apt,190,27,6,2025-06-30,0.43,1,223,5,
+1085793596151122272,Home w/ beautiful mountain view,91578827,Misty,,Bozeman,45.6826528,-111.1126897,Entire home/apt,246,2,13,2025-10-12,1.48,1,259,13,str24-00026
+1086946705879264741,Southbridge Cottage: Cozy and Modern Home (NEW),10719166,Ted And Ann Marie,,Bozeman,45.6442334,-111.0656939,Entire home/apt,249,2,25,2025-10-21,1.30,8,341,14,STR22-00112
+1105776216470545988,Cute Condo Near Downtown & Parks,388858579,Neil,,Bozeman,45.66586,-111.03784,Entire home/apt,,30,1,2025-03-01,0.12,6,0,1,
+1108037590849320235,Bozeman Refuge - Belle Vie in MT,39660084,Catherine,,Bozeman,45.6882432,-111.0679403,Entire home/apt,114,3,19,2025-10-13,1.04,1,35,12,STR24-00002
+1109688100302195774,Comfy 2bd/1ba near Hylite lg deck *bring Fido !,506863680,Shannon,,Bozeman,45.64931,-111.04192,Entire home/apt,,30,2,2024-08-24,0.11,1,0,0,
+1113152204237576730,Downtown Living! Mountain Views!,138031362,Christina,,Bozeman,45.68026,-111.03451,Entire home/apt,110,30,3,2025-10-07,0.22,1,296,2,
+1115252657794209090,Modern Bozeman Condo w/ Balcony & Mountain Views!,122381278,Evolve,,Bozeman,45.6963081,-111.0684023,Entire home/apt,181,30,3,2025-01-31,0.21,9,284,2,
+1117396038806434428,Sojourner's Oasis,568242556,Michael,,Bozeman,45.68475,-111.05017,Entire home/apt,95,2,15,2025-11-02,1.24,1,199,15,STR24-00023
+1120363313108840922,Downtown Bozeman Stay | Kitchen. Breakfast. Pool.,430914923,Residence Inn Bozeman,,Bozeman,45.68034,-111.0237,Private room,241,1,22,2025-06-01,1.20,6,140,20,STR23-21433
+1120365518968910819,Downtown Bozeman Stay | Breakfast. Kitchen. Pool.,430914923,Residence Inn Bozeman,,Bozeman,45.68069,-111.02488,Private room,246,1,44,2025-10-26,2.28,6,135,34,STR23-96372
+1127519426260482497,Great Hideaway ADU,168421505,Courtney,,Bozeman,45.68094,-111.1005,Entire home/apt,121,2,74,2025-10-20,3.86,2,328,29,STR23-00088
+1129158239481570506,Cooper Park Casita,87300632,Liz,,Bozeman,45.67604,-111.04788,Entire home/apt,310,3,20,2025-10-27,1.23,31,122,13,STR23-00229
+1129794601961711081,Flats at G Park: 323 #203,87300632,Liz,,Bozeman,45.70741,-111.04358,Entire home/apt,119,30,1,2024-10-01,0.07,31,156,0,
+1131269221775810545,Renova Guesthouse,242945917,Tim,,Bozeman,45.68982,-111.09523,Entire home/apt,111,2,27,2025-10-20,1.76,1,322,22,STR24-00016
+1131809161224984368,Bozeman Basecamp,156478694,Nicholas,,Bozeman,45.6777554,-111.0820205,Entire home/apt,195,3,1,2025-01-01,0.09,1,71,1,STR24-00029
+1142121494006400218,Bozeman Mountain Luxury: Retreat Near Nature,68940904,The Arrival,,Bozeman,45.7064336,-111.0398736,Entire home/apt,362,30,0,,,5,60,0,
+1143443232464516671,Downtown Bozeman Updated Charmer,5837495,Julie,,Bozeman,45.6716196,-111.0359121,Entire home/apt,316,30,0,,,2,179,0,
+1143488312801959228,Cozy 1 BR Downtown & MSU campus,5837495,Julie,,Bozeman,45.6716938,-111.0358414,Entire home/apt,200,30,0,,,2,364,0,
+1147899926663582369,Andon Rise-2nd floor apt,58894863,Amy,,Bozeman,45.67892562356637,-111.01867711293136,Entire home/apt,165,1,109,2025-11-09,6.53,2,250,67,STR22-00031
+1156828451719539791,Historic Home in Downtown,76793353,Chris,,Bozeman,45.67781,-111.04607,Entire home/apt,240,30,0,,,1,133,0,STR23-20495
+1162229923702796343,Alpine Cottage,8224408,Paul,,Bozeman,45.6815005,-111.0423059,Entire home/apt,134,2,12,2025-10-07,0.68,17,294,8,STR24-00020
+1170983157398311241,"Foxtail Haven - Spacious 3 bedroom, light filled 3",158595657,Mountain Home,,Bozeman,45.71127,-111.07997,Entire home/apt,213,1,0,,,41,289,0,STR23-00000
+1170983974998830104,The Cairns - Tri-level condo a few blocks from the,158595657,Mountain Home,,Bozeman,45.682137,-111.04048,Entire home/apt,240,1,30,2025-10-15,1.82,41,286,22,STR23-00240
+1171810806695149449,Modern Condo-,318162090,Jennifer,,Bozeman,45.6962488,-111.0695738,Entire home/apt,72,30,0,,,1,89,0,
+1184081113116272201,"Cozy Loft | Well-Equipped, Walk to MSU & Downtown",22366054,Tessa,,Bozeman,45.67077,-111.04424,Entire home/apt,99,2,42,2025-10-28,2.63,10,218,32,STR22-00073
+1186218009821273083,Bozeman Cozy Condo - Comfortable condo in convenie,158595657,Mountain Home,,Bozeman,45.70854,-111.08066,Entire home/apt,169,1,0,,,41,42,0,STR23-54321
+1198714265759473016,Hibernation Station : Bear Room,69417001,Louisa,,Bozeman,45.67723,-111.06132,Private room,25,27,2,2025-04-30,0.23,14,252,2,
+1198730222901800878,Hibernation Station : good for groups!,69417001,Louisa,,Bozeman,45.67823,-111.06033,Entire home/apt,198,27,4,2025-10-22,0.38,14,262,4,
+1199207728492665835,"Live above Wild Crumb, 30+ Day Rental",589366291,Ashley,,Bozeman,45.68562426413327,-111.02904833553734,Entire home/apt,226,30,0,,,1,56,0,
+1199325524915270959,Hibernation Station : Moose Room,69417001,Louisa,,Bozeman,45.67762,-111.06073,Private room,65,27,1,2025-07-06,0.23,14,261,1,
+1203578284120474113,Bozeman Bungalow,32628726,Kelly,,Bozeman,45.67742,-111.04562,Entire home/apt,,30,0,,,1,0,0,
+1205972600816129478,Modern Mountain Home,9002341,Andrew,,Bozeman,45.68531,-111.09112,Private room,77,2,24,2025-10-13,2.11,1,35,24,STR24-00032
+1207303293849896945,Cozy Guesthouse Near Downtown BZN,19928474,Bradley Dean,,Bozeman,45.67032,-111.10714,Entire home/apt,121,1,45,2025-09-30,2.99,1,364,25,STR23-00164
+1212530786853027708,In The Heart Of Montana’s Rocky Mountains | Pool,590851296,Janina Gay,,Bozeman,45.71338,-111.06688,Private room,141,1,104,2025-11-10,10.23,2,165,104,Exempt
+1212530893124472842,Your Rocky Mountain Home | Free Breakfast,590851296,Janina Gay,,Bozeman,45.71338,-111.06688,Private room,166,1,3,2025-08-12,0.57,2,163,3,Exempt
+1217030976025422085,Fox Haven - Your Basecamp to Bozeman & Beyond,425873557,Kenyon,,Bozeman,45.6497699,-111.0689467,Entire home/apt,192,1,31,2025-10-19,3.37,1,345,31,STR24-00025
+1220464411882845244,Flats at G Park: 331 #101/201,87300632,Liz,,Bozeman,45.70685,-111.0436,Entire home/apt,164,30,0,,,31,334,0,
+1220477582200401721,Flats at G Park: 331 #102/202,87300632,Liz,,Bozeman,45.70516,-111.04357,Entire home/apt,158,30,1,2024-11-01,0.08,31,150,0,
+1220489430203139196,Flats at G Park: 331 #103/203,87300632,Liz,,Bozeman,45.70624,-111.04224,Entire home/apt,143,30,0,,,31,284,0,
+1223495941746153479,Scandinavian Urban Design,54268767,Melissa,,Bozeman,45.68186,-111.04011,Entire home/apt,515,28,1,2025-08-09,0.31,2,339,1,
+1227728151661313353,Apt Getaway In Downtown Bozeman!,510216735,Sharon,,Bozeman,45.67625,-111.03755,Entire home/apt,189,2,35,2025-10-21,2.61,2,292,29,STR23-20495
+1233316158161928582,Walking distance to MSU and Downtown,172574535,Ryanne,,Bozeman,45.67655007796889,-111.05481262698363,Entire home/apt,108,27,0,,,1,65,0,
+1234187844062068728,Mtn Air Bedroom - bzn cottage,69417001,Louisa,,Bozeman,45.67569,-111.06101,Private room,68,30,0,,,14,41,0,
+1234193622531802355,Mtn Earth bedroom - bzn cottage,69417001,Louisa,,Bozeman,45.67678,-111.06077,Private room,60,27,1,2025-11-08,1,14,200,1,
+1234197402897779147,Bozeman Cottage - near MSU!,69417001,Louisa,,Bozeman,45.67642,-111.06106,Entire home/apt,180,27,2,2025-06-11,0.18,14,57,2,
+1236510435664343749,Cozy Bozeman Escape,437376120,Taylor,,Bozeman,45.70204,-111.08905,Entire home/apt,178,1,24,2025-10-13,1.66,1,364,16,STR24-00014
+1237014866830410703,Northside  Nook - Bozeman,87300632,Liz,,Bozeman,45.71063,-111.0719,Entire home/apt,166,30,1,2025-01-06,0.10,31,215,1,
+1237227387123812824,Downtown Victorian Apartment W/ Amazing Backyard!,452466700,Kyler,,Bozeman,45.68059,-111.04054,Entire home/apt,109,1,44,2025-11-07,3.22,2,250,41,STR23-00192
+1239212060849143957,"Blue Room - Near MSU, Hospital",119046779,Christopher,,Bozeman,45.64893,-111.04762,Private room,55,30,0,,,2,364,0,
+1239815690334600140,Entire Home Near MSU & Hospital,119046779,Christopher,,Bozeman,45.6487,-111.04905,Entire home/apt,130,28,0,,,2,362,0,
+1250070475608494737,Downtown Digs - Bozeman,87300632,Liz,,Bozeman,45.679133833470374,-111.04256602299252,Entire home/apt,180,3,15,2025-10-18,1.13,31,124,14,STR23-00166
+1251441688187762074,Luxury condo 2 Master suites,392833475,Kara,,Bozeman,45.64887779447799,-111.06844631271898,Entire home/apt,128,27,0,,,1,130,0,
+1252224087673843183,The Peaks at the Ridge 206,87300632,Liz,,Bozeman,45.67522,-111.09152,Entire home/apt,132,30,2,2025-06-30,0.19,31,296,2,
+1252365869579573985,Newly Renovated Pad Near DT BZN!,388858579,Neil,,Bozeman,45.67451,-111.05622,Entire home/apt,,2,32,2025-11-08,2.37,6,343,27,STR24-00020
+1254379302967977498,Merin Downtown Apartment - 30 day or longer rental,158595657,Mountain Home,,Bozeman,45.681118,-111.03404,Entire home/apt,212,1,1,2025-07-31,0.29,41,230,1,STR23-99999
+1256699093706295115,The Peaks at the Ridge 204,87300632,Liz,,Bozeman,45.67537,-111.09014,Entire home/apt,,30,0,,,31,290,0,
+1258831921893555042,Modern Home 3 miles to downtown,49756188,Marissa,,Bozeman,45.645635742403606,-111.0658896353654,Entire home/apt,,30,0,,,2,0,0,STR22-00077
+1259719378415779249,Newly Built Montana Charm in the Heart of Bozeman,55960431,Patricia,,Bozeman,45.676932177104916,-111.05125603250902,Entire home/apt,129,2,32,2025-10-19,2.99,1,45,32,STR24-00027
+1266080526838901939,Flats at G Park: 323 #101/201,87300632,Liz,,Bozeman,45.70539,-111.04361,Entire home/apt,122,30,0,,,31,140,0,
+1266149534054061522,The Peaks at the Ridge 205,87300632,Liz,,Bozeman,45.6756,-111.0913,Entire home/apt,135,30,1,2025-01-26,0.10,31,333,1,
+1267587941579275017,Downtown Bozeman Stay | Kitchen. Breakfast. Pool.,430914923,Residence Inn Bozeman,,Bozeman,45.67901252045078,-111.02556790254972,Private room,256,1,0,,,6,105,0,Exempt
+1267589434571409027,Downtown Bozeman Stay | Kitchen. Breakfast. Pool.,430914923,Residence Inn Bozeman,,Bozeman,45.67935188502663,-111.02540397663554,Private room,246,1,0,,,6,105,0,Exempt
+1267590460478945382,Downtown Bozeman Stay | Breakfast. Kitchen. Pool.,430914923,Residence Inn Bozeman,,Bozeman,45.679015471754276,-111.02476431270473,Private room,256,1,0,,,6,105,0,Exempt
+1267591134078260936,Downtown Bozeman Stay | Breakfast. Kitchen. Pool.,430914923,Residence Inn Bozeman,,Bozeman,45.68083785510898,-111.0237996097708,Private room,246,1,0,,,6,105,0,Exempt
+1273935811695054681,Spacious Urban Living with Prime Main St. Access,658490176,Seth,,Bozeman,45.67724222768834,-111.03296620488882,Entire home/apt,165,2,11,2025-10-29,2.19,3,346,11,STR24-00037
+1273956051073820867,Charming Views Steps from Main,658490176,Seth,,Bozeman,45.67839616935968,-111.03161208433293,Entire home/apt,92,28,3,2025-04-30,0.35,3,364,3,
+1274080408368834274,Lofted live/work apartment,538263049,Penny,,Bozeman,45.700900683546976,-111.0870594211853,Entire home/apt,148,30,0,,,1,77,0,
+1278412395416068515,Experience the Romance of The Historic Rouse House,169754903,VR Bozeman,,Bozeman,45.6781624,-111.0299487,Entire home/apt,685,1,9,2025-07-11,0.89,8,337,9,STR23-00223
+1278929061486040269,(NEW) Cinnabar Suite - Mountain Views,10719166,Ted And Ann Marie,,Bozeman,45.702207,-111.0729616,Entire home/apt,163,30,1,2025-09-26,0.63,8,361,1,
+1279920737924392370,Unmatched Privacy & Luxury for the Entire Family,169754903,VR Bozeman,,Bozeman,45.6781624,-111.0299487,Entire home/apt,1106,1,10,2025-10-26,0.93,8,315,10,STR23-00223
+1280535161933509595,Comfy Modern Industrial Condo,660057641,David,,Bozeman,45.6989931,-111.0446795,Entire home/apt,163,1,26,2025-10-19,2.12,1,349,25,STR25-00005
+1287602321114747252,Flanders Mill Flat-Bozeman,87300632,Liz,,Bozeman,45.691391571360505,-111.09620433708201,Entire home/apt,113,90,0,,,31,61,0,
+1288740114140298286,Bright and quiet guest apartment,23702043,Jessie,,Bozeman,45.71086372888881,-111.03419241927988,Entire home/apt,,1,18,2025-10-19,2.89,1,0,18,STR24-00022
+1291377289325640362,Huge Master Bedroom/Bath!,30465071,David,,Bozeman,45.6834107,-111.0782017,Private room,52,30,5,2025-08-03,0.48,3,162,5,
+1295082834721569676,"Retro Escape in Bozeman, Montana",521636962,Jacob,,Bozeman,45.682728281208675,-111.04551628465576,Private room,138,1,1,2025-03-18,0.13,10,340,1,Exempt
+1295685114597767431,Nostalgic Stay in Bozeman,521636962,Jacob,,Bozeman,45.6828632,-111.0455592,Private room,147,1,4,2025-06-26,0.42,10,289,4,Exempt
+1295701153775182886,Retro Charm in Bozeman Awaits,521636962,Jacob,,Bozeman,45.6828632,-111.0455592,Private room,,1,10,2025-11-02,0.87,10,271,10,Exempt
+1295900238723797969,Vintage Charm in Bozeman,521636962,Jacob,,Bozeman,45.68250341583344,-111.04549482698364,Private room,132,1,3,2025-03-09,0.29,10,333,3,Exempt
+1295917453794608939,Retro Retreat in Bozeman,521636962,Jacob,,Bozeman,45.682443451580724,-111.04530170793457,Private room,124,1,2,2025-02-10,0.22,10,349,2,Exempt
+1302255681601870750,Bozeman Abode,666451033,Gauge,,Bozeman,45.68645,-111.03305,Entire home/apt,90,1,44,2025-10-04,4.18,1,342,44,STR24-00009
+1305433350701773968,Heron's Nest,40166238,Sunny,,Bozeman,45.68205276676972,-111.09609185558912,Entire home/apt,126,2,34,2025-10-18,3.04,2,263,34,STR23-00173
+1309668990476607457,New! Downtown Bozeman loft,78849013,Stay Montana,,Bozeman,45.67992166317434,-111.03824615393268,Entire home/apt,,30,3,2025-09-19,0.50,11,364,3,
+1312529402953361684,Flats at G Park: 329 #204,87300632,Liz,,Bozeman,45.7071537605511,-111.04341566973616,Entire home/apt,135,30,0,,,31,364,0,
+1314082323149340257,Stylish Condo Near Downtown,131212957,Maureen,,Bozeman,45.678093,-111.0469886,Entire home/apt,152,2,21,2025-10-12,2.35,1,245,21,STR24-00015
+1320432273849796887,Downtown Bozeman Sanctuary,139725842,Jonathan,,Bozeman,45.68675,-111.03112,Entire home/apt,180,30,0,,,1,364,0,
+1325037422232817294,Downtown Home in the Brewery District Home,60108530,Lark,,Bozeman,45.68339,-111.02581,Entire home/apt,180,30,0,,,2,151,0,
+1326898556939753455,Bozeman Garden Cottage,4635454,Jeanne,,Bozeman,45.68347,-111.02984,Entire home/apt,110,3,16,2025-09-29,1.69,1,330,16,STR23-00076
+1331210115826894847,Bozeman Adventure Hub-1 Bedroom w/ Garage,281946364,Danielle,,Bozeman,45.67799132301616,-111.10066848397388,Entire home/apt,144,3,7,2025-10-27,1.74,1,118,7,STR25-00026
+1331977281449002919,Bozeman Creek Loft: Pet-Friendly MidTerm Apartment,22366054,Tessa,,Bozeman,45.69574151322371,-111.02883251825591,Entire home/apt,103,28,1,2025-08-26,0.38,10,348,1,
+1333570036570349496,Bozeman Getaway,263921361,Lindsay,,Bozeman,45.690712921771954,-111.07631292226405,Private room,52,30,0,,,2,188,0,
+1334118763946931862,Cottonwood Condo Bozeman,58357823,Allyson,,Bozeman,45.67576070511154,-111.10299356281757,Entire home/apt,81,28,3,2025-11-01,0.37,1,334,3,
+1339329362981267639,Blue Mountains Getaways,380139363,Katie,,Bozeman,45.68447673563895,-111.10229518264532,Entire home/apt,243,3,25,2025-11-10,4.12,1,272,25,STR25-00013
+1344548466660935622,Little Blue House - 1 BDRM Downtown,406871,Erin,,Bozeman,45.67744112071643,-111.04806610340125,Entire home/apt,182,1,21,2025-10-19,2.23,4,255,21,STR25-00017
+1353099457439444888,Downtown Bozeman Duplex,164694393,Christine,,Bozeman,45.6726795,-111.0569114,Entire home/apt,,1,0,,,1,117,0,STR25-00041
+1353758943825123267,Blue Hem in Bozeman,297702124,Peter,,Bozeman,45.68204000032313,-111.03508040043995,Entire home/apt,225,28,0,,,1,365,0,
+1355494524026812771,Privacy & Luxury in the Heart of Downtown Bozeman,169754903,VR Bozeman,,Bozeman,45.6806344,-111.0301175,Entire home/apt,565,1,4,2025-10-26,2.14,8,246,4,STR23-00004
+1358110773310441486,"Luxury Bozeman Retreat: Modern, High-End Comfort",1891952,Kelly,,Bozeman,45.69679,-111.10536,Entire home/apt,150,30,2,2025-07-31,0.29,1,227,2,
+1366251580016241793,Downtown Historic - Walk to Everything!,370721732,Rebecca,,Bozeman,45.678086390078754,-111.04204996319562,Entire home/apt,103,2,50,2025-11-04,6.98,2,34,50,STR25-00038
+1366702094773727263,Yellowstone Escape | 10 min to downtown | Near MSU,441896318,Payton,,Bozeman,45.6514058,-111.0690568,Entire home/apt,98,1,50,2025-10-25,7.28,11,362,50,STR24-00015
+1368220769339167856,Retro Western Retreat,58882819,Bria,,Bozeman,45.68987,-111.0944,Entire home/apt,91,2,45,2025-11-06,5.67,1,230,45,STR25-00008
+1369182683142088514,Parkview Villa - Dog Friendly W/ Fenced Back Yard,452466700,Kyler,,Bozeman,45.69148903264897,-111.091879590085,Entire home/apt,238,1,22,2025-10-27,2.87,2,234,22,STR22-00113
+1370418615644870925,Stafford House- Modern home conveniently located i,158595657,Mountain Home,,Bozeman,45.684006,-111.10215,Entire home/apt,564,1,2,2025-08-31,0.47,41,104,2,STR25-00002
+1371058566704678695,"Comfortable, walkable second story apartment",1591937,Alyssa,,Bozeman,45.676503070734235,-111.02195418217566,Entire home/apt,100,28,2,2025-10-04,0.57,1,248,2,
+1374810333893481094,CentrePark Flats,87300632,Liz,,Bozeman,45.695845200849654,-111.07171764969607,Entire home/apt,132,30,0,,,31,113,0,
+1378975176547723419,Mountain Modern Condo,52651116,Stacey,,Bozeman,45.70744523663898,-111.09221200524065,Entire home/apt,148,30,0,,,1,363,0,
+1385597663652909084,Wonderful ADU conveniently located in the westside,158595657,Mountain Home,,Bozeman,45.684006,-111.10215,Entire home/apt,200,1,2,2025-10-19,1.87,41,196,2,str25-00002
+1385598064364104404,Lamme 22 - your home in the heart of Bozeman! 30 N,158595657,Mountain Home,,Bozeman,45.681133,-111.03836,Entire home/apt,148,1,0,,,41,298,0,STR25-00008
+1389853723266278716,Mountain View Bedroom,30465071,David,,Bozeman,45.6834107,-111.0782017,Private room,45,30,1,2025-09-30,0.68,3,288,1,
+1390072201951427973,Cozy Studio in Historic Downtown,260021678,Alison,,Bozeman,45.674831713076756,-111.03651039297387,Entire home/apt,200,2,8,2025-10-12,1.28,1,166,8,STR25-00009
+1390635989437406125,Relax at the Red House,2886738,Kendra,,Bozeman,45.6812491949242,-111.10353358667022,Entire home/apt,243,30,8,2025-08-14,1.30,1,159,8,STR24-00024
+1392035185237251167,Outdoors-Person/Remote Worker Basecamp Bedroom,30465071,David,,Bozeman,45.6834107,-111.0782017,Private room,42,30,3,2025-11-11,0.69,3,89,3,Exempt
+1395074458696707730,Bozeman Getaway,263921361,Lindsay,,Bozeman,45.690875386995145,-111.07544746421058,Private room,57,27,0,,,2,345,0,
+1397152681693035685,North Brady Oasis,20979540,Eileen,,Bozeman,45.684913461895746,-111.02650885401812,Entire home/apt,109,30,0,,,1,269,0,
+1402972392002790921,Cottage feel but right in town,136221819,Aaron,,Bozeman,45.67766419188506,-111.04450617152892,Entire home/apt,,30,0,,,1,0,0,
+1405557703567889908,Narnia,422942100,Christopher,,Bozeman,45.70734668339395,-111.07936021511638,Private room,77,1,7,2025-11-11,7,1,101,7,STR25-00031
+1409640230516211084,Yakisugi Guesthouse | Peaceful + Private Studio,132810959,Cecelia,,Bozeman,45.684896147699234,-111.08008294232788,Entire home/apt,101,1,36,2025-11-04,5.51,1,245,36,STR25-00012
+1422038661642477211,Find Luxury Peace & Quiet 3 Blocks From Downtown,695766814,Cory,,Bozeman,45.6817499400372,-111.04065720899264,Entire home/apt,450,28,0,,,1,314,0,
+1429013882880399122,"Mid-Century, Big Yard Downtown",1610972,Katherine,,Bozeman,45.67742347425341,-111.01949513256018,Entire home/apt,225,180,0,,,1,315,0,
+1434328482110523135,Comfy downtown Apt - monthly,310484531,Lisa,,Bozeman,45.676720430356966,-111.03496572724491,Entire home/apt,68,30,0,,,2,299,0,
+1436639218498900291,Cozy Cottage 1 Block to Main St,658490176,Seth,,Bozeman,45.67729,-111.03151,Entire home/apt,153,28,0,,,3,185,0,
+1443430259034302157,Centre Park Flats Unit 305,87300632,Liz,,Bozeman,45.69579,-111.06874,Entire home/apt,122,90,0,,,31,364,0,
+1448679431466593249,Curtiss House in Downtown Bozeman,139112829,Kristen,,Bozeman,45.676469514664326,-111.04958942698364,Entire home/apt,,30,1,2025-09-04,0.43,1,1,1,
+1451762814614458710,Downtown Victorian House - Little Pink Houses,36057505,Kathi,,Bozeman,45.6811009,-111.0393647,Entire home/apt,206,3,9,2025-10-12,2.37,1,159,9,STR23-00198
+1454686804479491547,Pagoda Peaks - Modern Luxury Near Bozeman Beach,166104792,Caleb Joshua,,Bozeman,45.7068096,-111.0388841,Entire home/apt,395,2,4,2025-10-27,1.79,4,276,4,STR23-00085
+1458199497362504265,The Bear House,31550961,Barbara,,Bozeman,45.68248310000001,-111.0340613,Entire home/apt,274,1,6,2025-10-13,1.78,1,354,6,STR25-00061
+1465382078988646987,Near Montana State University + Coffee Bar & Bikes,705006599,Orlando,,Bozeman,45.6793744044163,-111.02138625014089,Private room,154,1,9,2025-11-09,4.03,2,324,9,Exempt
+1465382173148998859,Close to Montana State Univ. + Coffee Bar & Bikes,705006599,Orlando,,Bozeman,45.67876,-111.01911,Private room,160,1,2,2025-10-19,1.20,2,323,2,Exempt
+1467291290913690905,Spacious Manchester Room Perfect for Relaxation,657455752,Aishat,,Bozeman,45.717617,-111.0688904,Hotel room,111,1,0,,,6,362,0,Exempt
+1467291291225889868,Historic Charm Suite Near Scenic Green Mountains,657455752,Aishat,,Bozeman,45.717617,-111.0688904,Hotel room,111,1,0,,,6,362,0,Exempt
+1467291293569634674,Relax Amidst the Comforts of Green Mountains,657455752,Aishat,,Bozeman,45.717617,-111.0688904,Hotel room,40000,1,0,,,6,361,0,Exempt
+1467291295561499259,Classic Comforts Near Emerald Lake State Park,657455752,Aishat,,Bozeman,45.71762,-111.06889,Hotel room,50000,1,2,2025-09-08,0.73,6,361,2,Exempt
+1467295628967955598,Elegant Comfort Near Manchester Attractions,657455752,Aishat,,Bozeman,45.71762,-111.06889,Hotel room,101,1,2,2025-10-05,1.46,6,364,2,Exempt
+1467295639096686323,Spacious Room Ideal for Family Adventures Nearby,657455752,Aishat,,Bozeman,45.71762,-111.06889,Hotel room,105,1,3,2025-10-13,0.95,6,364,3,Exempt
+1467443495419591845,Warblers Nest - A bright & spacious holiday home!,158595657,Mountain Home,,Bozeman,45.712788,-111.07694,Entire home/apt,314,1,2,2025-09-24,0.67,41,6,2,STR25-00022
+1471836863485716600,Downtown Bozeman Retreat,22366054,Tessa,,Bozeman,45.66794,-111.03356,Entire home/apt,184,2,4,2025-09-14,1.25,10,282,4,STR25-00003
+1472041177420072044,Aspen Hideout - Central Bozeman,87300632,Liz,,Bozeman,45.687753,-111.0446275,Entire home/apt,120,30,0,,,31,364,0,
+1472563656942381705,*NEW* Cozy 2BR Retreat Near MSU & Downtown,392140283,Arden,,Bozeman,45.65164,-111.06801,Entire home/apt,102,1,0,,,1,345,0,STR25-00046
+1475444999578847835,Midtown Bozeman Flat,87300632,Liz,,Bozeman,45.69927,-111.04503,Entire home/apt,124,30,0,,,31,219,0,
+1476129742160246771,Your Bozeman Basecamp,119659561,Danielle,,Bozeman,45.69218,-111.04846,Entire home/apt,122,27,0,,,1,234,0,
+1479963588310769508,Cosmopolitan Loft Condo,87300632,Liz,,Bozeman,45.68658193231729,-111.04349195362138,Entire home/apt,150,30,0,,,31,262,0,
+1480801554497532544,Orren North | Downtown Luxury & Bespoke Living,166104792,Caleb Joshua,,Bozeman,45.682211,-111.0410205,Entire home/apt,371,2,5,2025-10-26,2.08,4,308,5,STR25-00029
+1486331618262145787,South Bozeman Condo,87300632,Liz,,Bozeman,45.64683,-111.0641,Entire home/apt,120,30,0,,,31,160,0,
+1486414432211623171,Mid-Century Garden Retreat,17435591,Noah,,Bozeman,45.68411160047192,-111.04575229642654,Entire home/apt,125,30,0,,,1,201,0,
+1487916823427787652,Cozy 2 BR with Outdoor Seating and Mountain Charm,22366054,Tessa,,Bozeman,45.682357392773284,-111.07507036011108,Entire home/apt,94,1,0,,,10,259,0,Exempt
+1492862154830595766,LUX Room in Downtown Bozeman,2307096,Michelle,,Bozeman,45.68274,-111.03801,Private room,73,30,0,,,1,89,0,
+1496731432233665886,Bridger Vale Retreat,68940904,The Arrival,,Bozeman,45.70654,-111.03991,Entire home/apt,600,3,2,2025-11-02,2,5,181,2,STR23-00186
+1502563853732506252,Stunning Brand New Downtown Condo!,225774632,Joe And Michelle,,Bozeman,45.6826188,-111.0375404,Entire home/apt,122,27,0,,,4,230,0,
+1503905540001234080,Cozy Cottage in Bozeman,171916044,Daniel,,Bozeman,45.64386,-111.05825,Entire home/apt,224,30,0,,,2,206,0,
+1508334300626613211,"Cowboy Bunkhouse - central Bozeman, near MSU",69417001,Louisa,,Bozeman,45.6769195,-111.0599113,Entire home/apt,220,27,0,,,14,283,0,
+1510875732847279618,Mountain Majesty in the Heart of Bozeman,182433896,Angela,,Bozeman,45.6822516,-111.0784229,Entire home/apt,280,2,6,2025-10-12,3.33,1,190,6,STR25-00039
+1513853641639237758,North Bozeman Oasis,388858579,Neil,,Bozeman,45.6821411,-111.0416437,Entire home/apt,217,2,1,2025-10-16,1,6,43,1,STR25-00037
+1516203496532249662,"Ski & Stroll: Modern Home Blocks From Main St, 3/3",4656466,Brad,,Bozeman,45.68246,-111.03238,Entire home/apt,363,28,0,,,1,143,0,
+1520550162641355665,Bridger Peaks Vista,67399387,Marjorie Renee,,Bozeman,45.69178489999999,-111.0809978,Entire home/apt,141,30,0,,,1,129,0,
+1522824290369598265,Townhome in Bozeman - Dedicated Workspace,341664983,Charlie,,Bozeman,45.687617039914315,-111.08737569499999,Entire home/apt,117,28,0,,,1,43,0,
+1524047624835928085,Cozy Bozeman Cottage | Trails + Remote Work,171916044,Daniel,,Bozeman,45.64519,-111.06122,Entire home/apt,148,30,0,,,2,365,0,
+1527204974355428183,Private Guesthouse - Quiet Neighborhood SE Bozeman,349819100,Gail,,Bozeman,45.66024,-111.02392,Entire home/apt,125,30,0,,,1,87,0,
+1535786496130133722,"Buckaroo Bedroom - centrally located, near MSU!",69417001,Louisa,,Bozeman,45.67551,-111.05883,Private room,44,28,0,,,14,188,0,
+1535814384702835839,"Ranch Hand bedroom, max 2 guests, central Bozeman",69417001,Louisa,,Bozeman,45.67713,-111.05833,Private room,56,28,0,,,14,284,0,
+1540206626215087887,"Travel Lovers Condo - W Bozeman, sleeps 4, dog ok",69417001,Louisa,,Bozeman,45.6861435,-111.1078271,Entire home/apt,189,27,0,,,14,240,0,
+1540220421987246923,"Compass Bedroom - up to 2 guests, west Bozeman",69417001,Louisa,,Bozeman,45.68662387541373,-111.10835377586689,Private room,60,27,0,,,14,240,0,
+1540226456919213579,"Passport bedroom - up to 2 guests, west Bozeman",69417001,Louisa,,Bozeman,45.68722556258085,-111.10887708904907,Private room,72,27,0,,,14,269,0,
+1542699053157433282,Bright and cozy two bedrooms apartment near MSU,26998068,Linda,,Bozeman,45.663430060729354,-111.05852119624615,Entire home/apt,119,28,0,,,1,364,0,
+1543062627540919930,Treasure State Hostel 4-Bed Female Only Dorm,49746531,Nina,,Bozeman,45.6796012,-111.0363216,Shared room,30,1,0,,,7,171,0,Exempt
+1543074800857613420,Treasure State Hostel Double Bunk Bed Room,49746531,Nina,,Bozeman,45.67877,-111.03681,Shared room,31,1,0,,,7,167,0,Exempt
